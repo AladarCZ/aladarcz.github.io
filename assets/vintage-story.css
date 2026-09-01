@@ -1,0 +1,170 @@
+/* Vintage Story directory: green, brown and beige. */
+:root {
+  color-scheme: light;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #343b2e;
+  background: #eae4d6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  line-height: 1.55;
+}
+
+a {
+  color: inherit;
+  text-underline-offset: 4px;
+}
+
+a:focus-visible {
+  outline: 3px solid #a77b3d;
+  outline-offset: 5px;
+}
+
+.site-header {
+  border-bottom: 4px solid #806445;
+  background: #344532;
+  color: #f1ebda;
+}
+
+.header-content,
+.page-content {
+  width: min(920px, calc(100% - 48px));
+  margin: 0 auto;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+  padding: 24px 0;
+}
+
+.site-name {
+  font-size: 17px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.site-header nav {
+  display: flex;
+  gap: 25px;
+  font-size: 14px;
+}
+
+.site-header nav a {
+  text-decoration: none;
+}
+
+.site-header nav a:hover {
+  text-decoration: underline;
+}
+
+.page-content {
+  padding-top: 30px;
+  padding-bottom: 70px;
+}
+
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 42px;
+  color: #6e6a58;
+  font-size: 13px;
+}
+
+h1 {
+  margin: 0 0 8px;
+  font-size: clamp(30px, 5vw, 40px);
+  line-height: 1.2;
+  font-weight: 600;
+  letter-spacing: -0.7px;
+}
+
+.page-summary {
+  margin: 0 0 31px;
+  font-size: 15px;
+  color: #6a6c5a;
+}
+
+/* Compact text cards; the whole row opens the series. */
+.series-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+  padding: 26px 28px;
+  border: 1px solid #b9ad93;
+  border-left: 5px solid #65724d;
+  background: #f5f0e4;
+  text-decoration: none;
+}
+
+.series-link:hover {
+  background: #fcf7e9;
+  border-color: #806445;
+  border-left-color: #344532;
+}
+
+.series-link h2 {
+  margin: 0 0 5px;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.series-link p {
+  margin: 0;
+  color: #71684f;
+  font-size: 14px;
+}
+
+.arrow {
+  font-size: 26px;
+  color: #68734f;
+}
+
+.all-mods {
+  margin-top: 23px;
+  font-size: 14px;
+  color: #6c573a;
+}
+
+.skip-link {
+  position: absolute;
+  top: -80px;
+  left: 16px;
+  padding: 10px 15px;
+  background: #f5f0e4;
+  color: #343b2e;
+  z-index: 10;
+}
+
+.skip-link:focus {
+  top: 8px;
+}
+
+@media (max-width: 540px) {
+  .header-content,
+  .page-content {
+    width: calc(100% - 36px);
+  }
+
+  .site-header nav {
+    gap: 17px;
+    font-size: 13px;
+  }
+
+  .breadcrumb {
+    margin-bottom: 30px;
+  }
+
+  .series-link {
+    padding: 22px;
+  }
+}

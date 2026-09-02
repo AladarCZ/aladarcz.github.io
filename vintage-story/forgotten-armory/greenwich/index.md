@@ -35,8 +35,8 @@ title: Forgotten Armory — Greenwich
     </div>
     <div>
       <span class="status">DOCUMENTATION IN PROGRESS</span>
-      <h2>The collection is taking shape</h2>
-      <p>This chapter is still being written. In the meantime, visit the mod page for the available downloads and information.</p>
+      <h2>---</h2>
+      <p>Visit the mod page for the available downloads and information.</p>
       <a class="button" href="https://mods.vintagestory.at/show/mod/25550">Greenwich on ModDB <span aria-hidden="true">↗</span></a>
     </div>
   </div>

@@ -51,44 +51,44 @@ title: Forgotten Armory — Greenwich
       <h3 id="armet-communis-title">Communis</h3>
       <div class="greenwich-decoration-grid">
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Communis-Pennae.png" aria-label="Open Communis-Pennae image">
-            <img src="images/armet/Communis-Pennae.png" width="480" height="480" loading="lazy" alt="Communis-Pennae — placeholder">
+          <a class="greenwich-image" href="images/armet/communis/pennae.png" aria-label="Open Communis-Pennae image">
+            <img src="images/armet/communis/pennae.png" width="480" height="480" loading="lazy" alt="Communis-Pennae — placeholder">
           </a>
           <figcaption>Communis-Pennae</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Communis-Pluma.png" aria-label="Open Communis-Pluma image">
-            <img src="images/armet/Communis-Pluma.png" width="480" height="480" loading="lazy" alt="Communis-Pluma — placeholder">
+          <a class="greenwich-image" href="images/armet/communis/pluma.png" aria-label="Open Communis-Pluma image">
+            <img src="images/armet/communis/pluma.png" width="480" height="480" loading="lazy" alt="Communis-Pluma — placeholder">
           </a>
           <figcaption>Communis-Pluma</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Communis-Crista.png" aria-label="Open Communis-Crista image">
-            <img src="images/armet/Communis-Crista.png" width="480" height="480" loading="lazy" alt="Communis-Crista — placeholder">
+          <a class="greenwich-image" href="images/armet/communis/crista.png" aria-label="Open Communis-Crista image">
+            <img src="images/armet/communis/crista.png" width="480" height="480" loading="lazy" alt="Communis-Crista — placeholder">
           </a>
           <figcaption>Communis-Crista</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Communis-Pinna.png" aria-label="Open Communis-pinna image">
-            <img src="images/armet/Communis-Pinna.png" width="480" height="480" loading="lazy" alt="Communis-pinna — placeholder">
+          <a class="greenwich-image" href="images/armet/communis/pinna.png" aria-label="Open Communis-pinna image">
+            <img src="images/armet/communis/pinna.png" width="480" height="480" loading="lazy" alt="Communis-pinna — placeholder">
           </a>
           <figcaption>Communis-pinna</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Communis-Sertum.png" aria-label="Open Communis-sertum image">
-            <img src="images/armet/Communis-Sertum.png" width="480" height="480" loading="lazy" alt="Communis-sertum — placeholder">
+          <a class="greenwich-image" href="images/armet/communis/sertum.png" aria-label="Open Communis-sertum image">
+            <img src="images/armet/communis/sertum.png" width="480" height="480" loading="lazy" alt="Communis-sertum — placeholder">
           </a>
           <figcaption>Communis-sertum</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Communis-Transersa.png" aria-label="Open Communis-transersa image">
-            <img src="images/armet/Communis-Transersa.png" width="480" height="480" loading="lazy" alt="Communis-transersa — placeholder">
+          <a class="greenwich-image" href="images/armet/communis/transersa.png" aria-label="Open Communis-transersa image">
+            <img src="images/armet/communis/transersa.png" width="480" height="480" loading="lazy" alt="Communis-transersa — placeholder">
           </a>
           <figcaption>Communis-transersa</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Communis-Vexillum.png" aria-label="Open Communis-vexillum image">
-            <img src="images/armet/Communis-Vexillum.png" width="480" height="480" loading="lazy" alt="Communis-vexillum — placeholder">
+          <a class="greenwich-image" href="images/armet/communis/vexillum.png" aria-label="Open Communis-vexillum image">
+            <img src="images/armet/communis/vexillum.png" width="480" height="480" loading="lazy" alt="Communis-vexillum — placeholder">
           </a>
           <figcaption>Communis-vexillum</figcaption>
         </figure>
@@ -98,44 +98,44 @@ title: Forgotten Armory — Greenwich
       <h3 id="armet-regalis-title">Regalis</h3>
       <div class="greenwich-decoration-grid">
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Regalis-Crista.png" aria-label="Open Regalis-crista image">
-            <img src="images/armet/Regalis-Crista.png" width="480" height="480" loading="lazy" alt="Regalis-crista — placeholder">
+          <a class="greenwich-image" href="images/armet/regalis/crista.png" aria-label="Open Regalis-crista image">
+            <img src="images/armet/regalis/crista.png" width="480" height="480" loading="lazy" alt="Regalis-crista — placeholder">
           </a>
           <figcaption>Regalis-crista</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Regalis-Transversa.png" aria-label="Open Regalis-transversa image">
-            <img src="images/armet/Regalis-Transversa.png" width="480" height="480" loading="lazy" alt="Regalis-transversa — placeholder">
+          <a class="greenwich-image" href="images/armet/regalis/transversa.png" aria-label="Open Regalis-transversa image">
+            <img src="images/armet/regalis/transversa.png" width="480" height="480" loading="lazy" alt="Regalis-transversa — placeholder">
           </a>
           <figcaption>Regalis-transversa</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Regalis-Pennae.png" aria-label="Open Regalis-pennae image">
-            <img src="images/armet/Regalis-Pennae.png" width="480" height="480" loading="lazy" alt="Regalis-pennae — placeholder">
+          <a class="greenwich-image" href="images/armet/regalis/pennae.png" aria-label="Open Regalis-pennae image">
+            <img src="images/armet/regalis/pennae.png" width="480" height="480" loading="lazy" alt="Regalis-pennae — placeholder">
           </a>
           <figcaption>Regalis-pennae</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Regalis-Pinna.png" aria-label="Open Regalis-pinna image">
-            <img src="images/armet/Regalis-Pinna.png" width="480" height="480" loading="lazy" alt="Regalis-pinna — placeholder">
+          <a class="greenwich-image" href="images/armet/regalis/pinna.png" aria-label="Open Regalis-pinna image">
+            <img src="images/armet/regalis/pinna.png" width="480" height="480" loading="lazy" alt="Regalis-pinna — placeholder">
           </a>
           <figcaption>Regalis-pinna</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Regalis-Pluma.png" aria-label="Open Regalis-pluma image">
-            <img src="images/armet/Regalis-Pluma.png" width="480" height="480" loading="lazy" alt="Regalis-pluma — placeholder">
+          <a class="greenwich-image" href="images/armet/regalis/pluma.png" aria-label="Open Regalis-pluma image">
+            <img src="images/armet/regalis/pluma.png" width="480" height="480" loading="lazy" alt="Regalis-pluma — placeholder">
           </a>
           <figcaption>Regalis-pluma</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Regalis-Sertum.png" aria-label="Open Regalis-sertum image">
-            <img src="images/armet/Regalis-Sertum.png" width="480" height="480" loading="lazy" alt="Regalis-sertum — placeholder">
+          <a class="greenwich-image" href="images/armet/regalis/sertum.png" aria-label="Open Regalis-sertum image">
+            <img src="images/armet/regalis/sertum.png" width="480" height="480" loading="lazy" alt="Regalis-sertum — placeholder">
           </a>
           <figcaption>Regalis-sertum</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Regalis-Vexillum.png" aria-label="Open Regalis-vexillum image">
-            <img src="images/armet/Regalis-Vexillum.png" width="480" height="480" loading="lazy" alt="Regalis-vexillum — placeholder">
+          <a class="greenwich-image" href="images/armet/regalis/vexillum.png" aria-label="Open Regalis-vexillum image">
+            <img src="images/armet/regalis/vexillum.png" width="480" height="480" loading="lazy" alt="Regalis-vexillum — placeholder">
           </a>
           <figcaption>Regalis-vexillum</figcaption>
         </figure>
@@ -145,32 +145,32 @@ title: Forgotten Armory — Greenwich
       <h3 id="armet-metallicus-title">Metallicus</h3>
       <div class="greenwich-decoration-grid">
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Metallicus-Laurea.png" aria-label="Open Metallicus-laurea image">
-            <img src="images/armet/Metallicus-Laurea.png" width="480" height="480" loading="lazy" alt="Metallicus-laurea — placeholder">
+          <a class="greenwich-image" href="images/armet/metallicus/laurea.png" aria-label="Open Metallicus-laurea image">
+            <img src="images/armet/metallicus/laurea.png" width="480" height="480" loading="lazy" alt="Metallicus-laurea — placeholder">
           </a>
           <figcaption>Metallicus-laurea</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Metallicus-Corona.png" aria-label="Open Metallicus-corona image">
-            <img src="images/armet/Metallicus-Corona.png" width="480" height="480" loading="lazy" alt="Metallicus-corona — placeholder">
+          <a class="greenwich-image" href="images/armet/metallicus/corona.png" aria-label="Open Metallicus-corona image">
+            <img src="images/armet/metallicus/corona.png" width="480" height="480" loading="lazy" alt="Metallicus-corona — placeholder">
           </a>
           <figcaption>Metallicus-corona</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Metallicus-Cervinus.png" aria-label="Open Metallicus-cervinus image">
-            <img src="images/armet/Metallicus-Cervinus.png" width="480" height="480" loading="lazy" alt="Metallicus-cervinus — placeholder">
+          <a class="greenwich-image" href="images/armet/metallicus/cervinus.png" aria-label="Open Metallicus-cervinus image">
+            <img src="images/armet/metallicus/cervinus.png" width="480" height="480" loading="lazy" alt="Metallicus-cervinus — placeholder">
           </a>
           <figcaption>Metallicus-cervinus</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Metallicus-Arietinus.png" aria-label="Open Metallicus-arietinus image">
-            <img src="images/armet/Metallicus-Arietinus.png" width="480" height="480" loading="lazy" alt="Metallicus-arietinus — placeholder">
+          <a class="greenwich-image" href="images/armet/metallicus/arietinus.png" aria-label="Open Metallicus-arietinus image">
+            <img src="images/armet/metallicus/arietinus.png" width="480" height="480" loading="lazy" alt="Metallicus-arietinus — placeholder">
           </a>
           <figcaption>Metallicus-arietinus</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/Metallicus-Taurinus.png" aria-label="Open Metallicus-taurinus image">
-            <img src="images/armet/Metallicus-Taurinus.png" width="480" height="480" loading="lazy" alt="Metallicus-taurinus — placeholder">
+          <a class="greenwich-image" href="images/armet/metallicus/taurinus.png" aria-label="Open Metallicus-taurinus image">
+            <img src="images/armet/metallicus/taurinus.png" width="480" height="480" loading="lazy" alt="Metallicus-taurinus — placeholder">
           </a>
           <figcaption>Metallicus-taurinus</figcaption>
         </figure>
@@ -193,38 +193,38 @@ title: Forgotten Armory — Greenwich
       <h3 id="chestplate-brackets-title">Brackets</h3>
       <div class="greenwich-decoration-grid">
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/chestplate/Insignia.png" aria-label="Open Insignia image">
-            <img src="images/chestplate/Insignia.png" width="480" height="480" loading="lazy" alt="Insignia — placeholder">
+          <a class="greenwich-image" href="images/chestplate/brackets/insignia.png" aria-label="Open Insignia image">
+            <img src="images/chestplate/brackets/insignia.png" width="480" height="480" loading="lazy" alt="Insignia — placeholder">
           </a>
           <figcaption>Insignia</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/chestplate/pectorale.png" aria-label="Open pectorale image">
-            <img src="images/chestplate/pectorale.png" width="480" height="480" loading="lazy" alt="pectorale — placeholder">
+          <a class="greenwich-image" href="images/chestplate/brackets/pectorale.png" aria-label="Open pectorale image">
+            <img src="images/chestplate/brackets/pectorale.png" width="480" height="480" loading="lazy" alt="pectorale — placeholder">
           </a>
           <figcaption>pectorale</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/chestplate/cingulum.png" aria-label="Open cingulum image">
-            <img src="images/chestplate/cingulum.png" width="480" height="480" loading="lazy" alt="cingulum — placeholder">
+          <a class="greenwich-image" href="images/chestplate/brackets/cingulum.png" aria-label="Open cingulum image">
+            <img src="images/chestplate/brackets/cingulum.png" width="480" height="480" loading="lazy" alt="cingulum — placeholder">
           </a>
           <figcaption>cingulum</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/chestplate/Mantellum.png" aria-label="Open mantellum image">
-            <img src="images/chestplate/Mantellum.png" width="480" height="480" loading="lazy" alt="mantellum — placeholder">
+          <a class="greenwich-image" href="images/chestplate/brackets/mantellum.png" aria-label="Open mantellum image">
+            <img src="images/chestplate/brackets/mantellum.png" width="480" height="480" loading="lazy" alt="mantellum — placeholder">
           </a>
           <figcaption>mantellum</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/chestplate/vexilium.png" aria-label="Open vexilium image">
-            <img src="images/chestplate/vexilium.png" width="480" height="480" loading="lazy" alt="vexilium — placeholder">
+          <a class="greenwich-image" href="images/chestplate/brackets/vexilium.png" aria-label="Open vexilium image">
+            <img src="images/chestplate/brackets/vexilium.png" width="480" height="480" loading="lazy" alt="vexilium — placeholder">
           </a>
           <figcaption>vexilium</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/chestplate/balterus.png" aria-label="Open balterus image">
-            <img src="images/chestplate/balterus.png" width="480" height="480" loading="lazy" alt="balterus — placeholder">
+          <a class="greenwich-image" href="images/chestplate/brackets/balterus.png" aria-label="Open balterus image">
+            <img src="images/chestplate/brackets/balterus.png" width="480" height="480" loading="lazy" alt="balterus — placeholder">
           </a>
           <figcaption>balterus</figcaption>
         </figure>

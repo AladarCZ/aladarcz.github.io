@@ -39,14 +39,6 @@ title: Forgotten Armory — Greenwich
   <!-- Armet Helmet decorations -->
   <section id="armet" class="greenwich-section" aria-labelledby="armet-title">
     <h2 id="armet-title">Armet Helmet decorations</h2>
-      <div class="greenwich-decoration-grid">
-        <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/bear.png" aria-label="Open bear image">
-            <img src="images/armet/bear.png" width="480" height="480" loading="lazy" alt="bear — placeholder">
-          </a>
-          <figcaption>bear</figcaption>
-        </figure>
-      </div>
     <section class="greenwich-decoration-group" aria-labelledby="armet-communis-title">
       <h3 id="armet-communis-title">Communis</h3>
       <div class="greenwich-decoration-grid">
@@ -176,19 +168,29 @@ title: Forgotten Armory — Greenwich
         </figure>
       </div>
     </section>
+    <!-- Animal variants follow all other decorations for this armour part. -->
+    <section class="greenwich-decoration-group" aria-labelledby="armet-animal-title">
+      <h3 id="armet-animal-title">Animal</h3>
+      <div class="greenwich-decoration-grid">
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/armet/bear.png" aria-label="Open bear image">
+            <img src="images/armet/bear.png" width="480" height="480" loading="lazy" alt="bear — placeholder">
+          </a>
+          <figcaption>bear</figcaption>
+        </figure>
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/armet/wolf.png" aria-label="Open wolf image">
+            <img src="images/armet/wolf.png" width="480" height="480" loading="lazy" alt="wolf — placeholder">
+          </a>
+          <figcaption>wolf</figcaption>
+        </figure>
+      </div>
+    </section>
   </section>
 
   <!-- Noble Chestplate decorations -->
   <section id="chestplate" class="greenwich-section" aria-labelledby="chestplate-title">
     <h2 id="chestplate-title">Noble Chestplate decorations</h2>
-      <div class="greenwich-decoration-grid">
-        <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/chestplate/bear.png" aria-label="Open bear image">
-            <img src="images/chestplate/bear.png" width="480" height="480" loading="lazy" alt="bear — placeholder">
-          </a>
-          <figcaption>bear</figcaption>
-        </figure>
-      </div>
     <section class="greenwich-decoration-group" aria-labelledby="chestplate-brackets-title">
       <h3 id="chestplate-brackets-title">Brackets</h3>
       <div class="greenwich-decoration-grid">
@@ -230,18 +232,31 @@ title: Forgotten Armory — Greenwich
         </figure>
       </div>
     </section>
+    <!-- Animal variants follow all other decorations for this armour part. -->
+    <section class="greenwich-decoration-group" aria-labelledby="chestplate-animal-title">
+      <h3 id="chestplate-animal-title">Animal</h3>
+      <div class="greenwich-decoration-grid">
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/chestplate/bear.png" aria-label="Open bear image">
+            <img src="images/chestplate/bear.png" width="480" height="480" loading="lazy" alt="bear — placeholder">
+          </a>
+          <figcaption>bear</figcaption>
+        </figure>
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/chestplate/wolf.png" aria-label="Open wolf image">
+            <img src="images/chestplate/wolf.png" width="480" height="480" loading="lazy" alt="wolf — placeholder">
+          </a>
+          <figcaption>wolf</figcaption>
+        </figure>
+      </div>
+    </section>
   </section>
 
   <!-- Noble Legplate decorations -->
   <section id="legplate" class="greenwich-section" aria-labelledby="legplate-title">
     <h2 id="legplate-title">Noble Legplate decorations</h2>
       <div class="greenwich-decoration-grid">
-        <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/legplate/bear.png" aria-label="Open bear image">
-            <img src="images/legplate/bear.png" width="480" height="480" loading="lazy" alt="bear — placeholder">
-          </a>
-          <figcaption>bear</figcaption>
-        </figure>
+        
         <figure class="greenwich-card">
           <a class="greenwich-image" href="images/legplate/Lacinia.png" aria-label="Open Lacinia image">
             <img src="images/legplate/Lacinia.png" width="480" height="480" loading="lazy" alt="Lacinia — placeholder">
@@ -261,6 +276,24 @@ title: Forgotten Armory — Greenwich
           <figcaption>falda</figcaption>
         </figure>
       </div>
+    <!-- Animal variants follow all other decorations for this armour part. -->
+    <section class="greenwich-decoration-group" aria-labelledby="legplate-animal-title">
+      <h3 id="legplate-animal-title">Animal</h3>
+      <div class="greenwich-decoration-grid">
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/legplate/bear.png" aria-label="Open bear image">
+            <img src="images/legplate/bear.png" width="480" height="480" loading="lazy" alt="bear — placeholder">
+          </a>
+          <figcaption>bear</figcaption>
+        </figure>
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/legplate/wolf.png" aria-label="Open wolf image">
+            <img src="images/legplate/wolf.png" width="480" height="480" loading="lazy" alt="wolf — placeholder">
+          </a>
+          <figcaption>wolf</figcaption>
+        </figure>
+      </div>
+    </section>
   </section>
 
   <!-- Material poses: three equal columns on desktop; stacked on narrow screens. -->

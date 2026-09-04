@@ -1,0 +1,17 @@
+/* Spacing for the decoration groups; the existing Greenwich theme is retained. */
+.greenwich-gallery .greenwich-decoration-group {
+  margin-top: 28px;
+  padding-top: 24px;
+  border-top: 1px solid #64705a;
+}
+.greenwich-gallery .greenwich-decoration-group h3 {
+  margin: 0 0 18px;
+  color: #e7d7ae;
+  font: 32px/1.15 Jacquard, Georgia, serif;
+}
+@media (max-width: 640px) {
+  .greenwich-gallery .greenwich-decoration-group {
+    margin-top: 24px;
+    padding-top: 20px;
+  }
+}

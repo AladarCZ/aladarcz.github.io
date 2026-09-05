@@ -1,0 +1,106 @@
+/* Catalogue styles stay inside .core-assets; shared site styles are unchanged. */
+.core-assets { padding-bottom: 12px; }
+.core-assets .core-hero { padding: 34px 12px 24px; }
+.core-assets .core-hero h1 { margin: 12px 0 18px; }
+.core-assets .asset-navigation {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin: 0;
+  padding: 16px;
+  background: #252d2d;
+  border: 3px solid #161c1d;
+  box-shadow: inset 0 2px #515b56, 0 3px #0004;
+}
+.core-assets .asset-navigation a {
+  display: block;
+  padding: 8px 14px;
+  color: #e7d7ae;
+  background: #343e34;
+  border: 1px solid #647054;
+  text-decoration: none;
+  line-height: 1.2;
+}
+.core-assets .asset-navigation a:hover { background: #48533e; color: #fff2cf; }
+.core-assets .asset-hint { text-align: center; color: #bec5b4; margin: 14px 0 30px; }
+.core-assets .asset-section {
+  margin: 0 0 28px;
+  padding: 26px;
+  border: 4px solid #231c16;
+  background: #29312f;
+  box-shadow: inset 0 3px #56604e, 0 5px #1118;
+  scroll-margin-top: 20px;
+}
+.core-assets .asset-section > h2 {
+  display: block;
+  margin: -26px -26px 22px;
+  padding: 15px 24px 18px;
+  background: #5b4029 url('../../../assets/wood.svg');
+  background-size: 288px 96px;
+  border-bottom: 3px solid #231c16;
+  box-shadow: inset 0 3px #997444;
+  color: #f1deb0;
+  font: 42px/1.1 Jacquard, Georgia, serif;
+  text-shadow: 2px 2px #2d221a;
+}
+.core-assets .section-description { margin: 0 0 22px; color: #c9cebd; }
+.core-assets .asset-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 20px;
+  align-items: start;
+}
+.core-assets #stations .asset-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.core-assets .asset-card { margin: 0; min-width: 0; }
+.core-assets .asset-image {
+  display: block;
+  padding: 4px;
+  border: 2px solid #9b8451;
+  background: #171e1b;
+  box-shadow: 3px 3px #121816;
+}
+.core-assets .asset-image:hover { border-color: #edd299; }
+.core-assets .asset-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  object-fit: contain;
+  background: #fff;
+  image-rendering: pixelated;
+}
+.core-assets figcaption {
+  margin-top: 11px;
+  text-align: center;
+  color: #e7d7ae;
+  font-size: 23px;
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+}
+.core-assets .asset-subsection + .asset-subsection {
+  margin-top: 28px;
+  padding-top: 22px;
+  border-top: 1px solid #53604e;
+}
+.core-assets .asset-subsection h3 {
+  margin: 0 0 18px;
+  font: 34px/1.15 Jacquard, Georgia, serif;
+  color: #e7d7ae;
+}
+.core-assets .empty-group { color: #bfc6b4; margin: 0; }
+.core-assets .asset-footer { text-align: center; margin: 30px 0; }
+@media (max-width: 900px) {
+  .core-assets .asset-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (max-width: 640px) {
+  .core-assets .core-hero h1 { font-size: 58px; }
+  .core-assets .asset-navigation { gap: 8px; padding: 12px; }
+  .core-assets .asset-navigation a { padding: 8px 10px; }
+  .core-assets .asset-section { padding: 17px; }
+  .core-assets .asset-section > h2 { margin: -17px -17px 18px; padding: 14px 17px 16px; font-size: 36px; }
+  .core-assets .asset-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px 12px; }
+  .core-assets #stations .asset-grid { grid-template-columns: 1fr; }
+  .core-assets #stations .asset-card { width: min(100%, 320px); margin-inline: auto; }
+  .core-assets figcaption { font-size: 21px; }
+}

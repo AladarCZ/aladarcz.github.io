@@ -70,6 +70,12 @@
   background: #fff;
   image-rendering: pixelated;
 }
+
+.core-assets .core-wideshot img {
+  aspect-ratio: auto;
+  background: #171e1b;
+}
+
 .core-assets figcaption {
   margin-top: 11px;
   text-align: center;

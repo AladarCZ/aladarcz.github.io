@@ -36,3 +36,15 @@ a.collection-button:focus-visible {
   outline: 3px solid #e8cc84;
   outline-offset: 4px;
 }
+
+.panel a.collection-button.varangian-button,
+.collection-shortcuts a.collection-button.varangian-button {
+  color: #fff1d8;
+  background: #9a5f2f;
+  border-color: #d6ad68;
+}
+.panel a.collection-button.varangian-button:hover,
+.collection-shortcuts a.collection-button.varangian-button:hover {
+  color: #fff8e8;
+  background: #c07836;
+}

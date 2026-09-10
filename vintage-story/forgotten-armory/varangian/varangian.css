@@ -1,0 +1,141 @@
+.varangian-gallery {
+  color: #eadcc5;
+}
+.varangian-hero {
+  margin: 0 0 24px;
+  text-align: center;
+}
+.varangian-hero h1 {
+  margin: 8px 0;
+  color: #f0d29b;
+  text-shadow: 0 2px 0 #24170d;
+}
+.varangian-hero p,
+.varangian-note {
+  color: #d8c6aa;
+}
+.varangian-navigation {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0 0 28px;
+  padding: 16px;
+  background: #3b3024;
+  border: 2px solid #24190f;
+  box-shadow: inset 0 0 0 2px #8a6741;
+}
+.varangian-navigation a {
+  display: inline-block;
+  padding: 8px 12px;
+  color: #fff0d1;
+  background: #9a5f2f;
+  border: 1px solid #d6ad68;
+  text-decoration: none;
+}
+.varangian-navigation a:hover,
+.varangian-navigation a:focus-visible {
+  background: #c07836;
+  color: #fff8e8;
+}
+.varangian-navigation a:focus-visible,
+.varangian-card a:focus-visible {
+  outline: 3px solid #f0cf85;
+  outline-offset: 3px;
+}
+.varangian-section {
+  margin: 0 0 34px;
+  padding: 22px;
+  background: #473523;
+  border: 2px solid #24190f;
+  box-shadow: inset 0 0 0 2px #9a7448, 0 7px 18px #1d100888;
+}
+.varangian-section > h2 {
+  margin: -22px -22px 18px;
+  padding: 14px 20px;
+  color: #fff0cf;
+  background: #5b4029 url('../../../assets/wood.svg');
+  border-bottom: 2px solid #24190f;
+}
+.varangian-group {
+  margin-top: 24px;
+  padding-top: 18px;
+  border-top: 1px solid #9a7448;
+}
+.varangian-group h3,
+.varangian-pose-row > h3,
+.varangian-pose-metal h4 {
+  color: #edc477;
+}
+.varangian-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 20px;
+}
+.varangian-card {
+  margin: 0;
+  min-width: 0;
+  text-align: center;
+}
+.varangian-card a {
+  display: block;
+}
+.varangian-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: #2d2117;
+  border: 3px solid #24190f;
+  box-shadow: 0 0 0 2px #d0aa62;
+}
+.varangian-card figcaption {
+  margin-top: 10px;
+  color: #f1dfbd;
+  overflow-wrap: anywhere;
+}
+.varangian-introduction-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.varangian-introduction-grid img {
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+.varangian-pose-row {
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 2px solid #9a7448;
+}
+.varangian-pose-metals {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+}
+.varangian-pose-metal {
+  min-width: 0;
+}
+.varangian-pose-pair {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+.varangian-pose-pair .varangian-card img {
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+}
+.varangian-footer-links {
+  margin-top: 28px;
+}
+@media (max-width: 920px) {
+  .varangian-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .varangian-pose-metals { grid-template-columns: 1fr; }
+}
+@media (max-width: 680px) {
+  .varangian-section { padding: 16px; }
+  .varangian-section > h2 { margin: -16px -16px 16px; }
+  .varangian-grid,
+  .varangian-introduction-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 430px) {
+  .varangian-grid,
+  .varangian-introduction-grid,
+  .varangian-pose-pair { grid-template-columns: 1fr; }
+}

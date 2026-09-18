@@ -73,10 +73,10 @@ title: Forgotten Armory — Gothic
           <figcaption>Communis-Sertum</figcaption>
         </figure>
         <figure class="gothic-card">
-          <a class="gothic-image" href="images/sallet/communis/transersa.png" aria-label="Open Communis-transersa image">
-            <img src="images/sallet/communis/transersa.png" width="480" height="480" loading="lazy" alt="Communis-transersa — placeholder">
+          <a class="gothic-image" href="images/sallet/communis/transversa.png" aria-label="Open Communis-transversa image">
+            <img src="images/sallet/communis/transversa.png" width="480" height="480" loading="lazy" alt="Communis-transversa — placeholder">
           </a>
-          <figcaption>Communis-Transersa</figcaption>
+          <figcaption>Communis-Transversa</figcaption>
         </figure>
         <figure class="gothic-card">
           <a class="gothic-image" href="images/sallet/communis/vexillum.png" aria-label="Open Communis-vexillum image">
@@ -84,6 +84,12 @@ title: Forgotten Armory — Gothic
           </a>
           <figcaption>Communis-Vexillum</figcaption>
         </figure>
+<figure class="gothic-card">
+  <a class="gothic-image" href="images/sallet/communis/cauda.png" aria-label="Open Communis-Cauda image">
+    <img src="images/sallet/communis/cauda.png" width="480" height="480" loading="lazy" alt="Communis-Cauda — placeholder">
+  </a>
+  <figcaption>Communis-Cauda</figcaption>
+</figure>
       </div>
     </section>
     <section class="gothic-decoration-group" aria-labelledby="sallet-regalis-title">
@@ -131,6 +137,12 @@ title: Forgotten Armory — Gothic
           </a>
           <figcaption>Regalis-Vexillum</figcaption>
         </figure>
+<figure class="gothic-card">
+  <a class="gothic-image" href="images/sallet/regalis/cauda.png" aria-label="Open Regalis-Cauda image">
+    <img src="images/sallet/regalis/cauda.png" width="480" height="480" loading="lazy" alt="Regalis-Cauda — placeholder">
+  </a>
+  <figcaption>Regalis-Cauda</figcaption>
+</figure>
       </div>
     </section>
     <section class="gothic-decoration-group" aria-labelledby="sallet-metallicus-title">

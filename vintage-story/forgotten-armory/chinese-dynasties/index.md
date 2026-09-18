@@ -44,12 +44,18 @@ title: Forgotten Armory — Chinese Dynasties
   <figcaption>Communis-Sertum</figcaption>
 </figure>
 <figure class="dynasties-card">
-  <a class="dynasties-image" href="images/song-helmet/communis/transersa.png" aria-label="Open Transersa image"><img src="images/song-helmet/communis/transersa.png" width="480" height="480" loading="lazy" alt="Transersa — placeholder"></a>
-  <figcaption>Communis-Transersa</figcaption>
+  <a class="dynasties-image" href="images/song-helmet/communis/transversa.png" aria-label="Open Transversa image"><img src="images/song-helmet/communis/transversa.png" width="480" height="480" loading="lazy" alt="Transversa — placeholder"></a>
+  <figcaption>Communis-Transversa</figcaption>
 </figure>
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/song-helmet/communis/vexillum.png" aria-label="Open Vexillum image"><img src="images/song-helmet/communis/vexillum.png" width="480" height="480" loading="lazy" alt="Vexillum — placeholder"></a>
   <figcaption>Communis-Vexillum</figcaption>
+</figure>
+<figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-helmet/communis/cauda.png" aria-label="Open Communis-Cauda image">
+    <img src="images/song-helmet/communis/cauda.png" width="480" height="480" loading="lazy" alt="Communis-Cauda — placeholder">
+  </a>
+  <figcaption>Communis-Cauda</figcaption>
 </figure>
 </div>
 </section>
@@ -82,6 +88,12 @@ title: Forgotten Armory — Chinese Dynasties
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/song-helmet/regalis/vexillum.png" aria-label="Open Vexillum image"><img src="images/song-helmet/regalis/vexillum.png" width="480" height="480" loading="lazy" alt="Vexillum — placeholder"></a>
   <figcaption>Regalis-Vexillum</figcaption>
+</figure>
+<figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-helmet/regalis/cauda.png" aria-label="Open Regalis-Cauda image">
+    <img src="images/song-helmet/regalis/cauda.png" width="480" height="480" loading="lazy" alt="Regalis-Cauda — placeholder">
+  </a>
+  <figcaption>Regalis-Cauda</figcaption>
 </figure>
 </div>
 </section>
@@ -147,12 +159,18 @@ title: Forgotten Armory — Chinese Dynasties
   <figcaption>Communis-Sertum</figcaption>
 </figure>
 <figure class="dynasties-card">
-  <a class="dynasties-image" href="images/song-masked-helmet/communis/transersa.png" aria-label="Open Transersa image"><img src="images/song-masked-helmet/communis/transersa.png" width="480" height="480" loading="lazy" alt="Transersa — placeholder"></a>
-  <figcaption>Communis-Transersa</figcaption>
+  <a class="dynasties-image" href="images/song-masked-helmet/communis/transversa.png" aria-label="Open Transversa image"><img src="images/song-masked-helmet/communis/transversa.png" width="480" height="480" loading="lazy" alt="Transversa — placeholder"></a>
+  <figcaption>Communis-Transversa</figcaption>
 </figure>
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/song-masked-helmet/communis/vexillum.png" aria-label="Open Vexillum image"><img src="images/song-masked-helmet/communis/vexillum.png" width="480" height="480" loading="lazy" alt="Vexillum — placeholder"></a>
   <figcaption>Communis-Vexillum</figcaption>
+</figure>
+<figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-masked-helmet/communis/cauda.png" aria-label="Open Communis-Cauda image">
+    <img src="images/song-masked-helmet/communis/cauda.png" width="480" height="480" loading="lazy" alt="Communis-Cauda — placeholder">
+  </a>
+  <figcaption>Communis-Cauda</figcaption>
 </figure>
 </div>
 </section>
@@ -185,6 +203,12 @@ title: Forgotten Armory — Chinese Dynasties
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/song-masked-helmet/regalis/vexillum.png" aria-label="Open Vexillum image"><img src="images/song-masked-helmet/regalis/vexillum.png" width="480" height="480" loading="lazy" alt="Vexillum — placeholder"></a>
   <figcaption>Regalis-Vexillum</figcaption>
+</figure>
+<figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-masked-helmet/regalis/cauda.png" aria-label="Open Regalis-Cauda image">
+    <img src="images/song-masked-helmet/regalis/cauda.png" width="480" height="480" loading="lazy" alt="Regalis-Cauda — placeholder">
+  </a>
+  <figcaption>Regalis-Cauda</figcaption>
 </figure>
 </div>
 </section>
@@ -250,12 +274,18 @@ title: Forgotten Armory — Chinese Dynasties
   <figcaption>Communis-Sertum</figcaption>
 </figure>
 <figure class="dynasties-card">
-  <a class="dynasties-image" href="images/jin-helmet/communis/transersa.png" aria-label="Open Transersa image"><img src="images/jin-helmet/communis/transersa.png" width="480" height="480" loading="lazy" alt="Transersa — placeholder"></a>
-  <figcaption>Communis-Transersa</figcaption>
+  <a class="dynasties-image" href="images/jin-helmet/communis/transversa.png" aria-label="Open Transversa image"><img src="images/jin-helmet/communis/transversa.png" width="480" height="480" loading="lazy" alt="Transversa — placeholder"></a>
+  <figcaption>Communis-Transversa</figcaption>
 </figure>
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/jin-helmet/communis/vexillum.png" aria-label="Open Vexillum image"><img src="images/jin-helmet/communis/vexillum.png" width="480" height="480" loading="lazy" alt="Vexillum — placeholder"></a>
   <figcaption>Communis-Vexillum</figcaption>
+</figure>
+<figure class="dynasties-card">
+  <a class="dynasties-image" href="images/jin-helmet/communis/cauda.png" aria-label="Open Communis-Cauda image">
+    <img src="images/jin-helmet/communis/cauda.png" width="480" height="480" loading="lazy" alt="Communis-Cauda — placeholder">
+  </a>
+  <figcaption>Communis-Cauda</figcaption>
 </figure>
 </div>
 </section>
@@ -288,6 +318,12 @@ title: Forgotten Armory — Chinese Dynasties
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/jin-helmet/regalis/vexillum.png" aria-label="Open Vexillum image"><img src="images/jin-helmet/regalis/vexillum.png" width="480" height="480" loading="lazy" alt="Vexillum — placeholder"></a>
   <figcaption>Regalis-Vexillum</figcaption>
+</figure>
+<figure class="dynasties-card">
+  <a class="dynasties-image" href="images/jin-helmet/regalis/cauda.png" aria-label="Open Regalis-Cauda image">
+    <img src="images/jin-helmet/regalis/cauda.png" width="480" height="480" loading="lazy" alt="Regalis-Cauda — placeholder">
+  </a>
+  <figcaption>Regalis-Cauda</figcaption>
 </figure>
 </div>
 </section>

@@ -3,13 +3,13 @@ layout: medieval
 title: Forgotten Armory — Varangian
 ---
 
-<link rel="stylesheet" href="{{ '/vintage-story/forgotten-armory/varangian/varangian.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/vintage-story/forgotten-armory/varangian/varangian.css' | relative_url }}?v=2">
 
 <div class="breadcrumb">
   <a href="{{ '/vintage-story/forgotten-armory/' | relative_url }}">← Forgotten Armory</a>
 </div>
 
-<main class="varangian-gallery">
+<div class="varangian-gallery">
   <header class="varangian-hero">
     <div class="eyebrow">FORGOTTEN ARMORY · COLLECTION</div>
     <h1>Varangian</h1>
@@ -1151,7 +1151,7 @@ title: Forgotten Armory — Varangian
     </div>
   </section>
 </section>
-</main>
+</div>
 
 <div class="below varangian-footer-links">
   <section class="note"><div>

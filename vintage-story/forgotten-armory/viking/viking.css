@@ -1,0 +1,169 @@
+.viking-gallery {
+  color: #eadcc5;
+  width: 100%;
+  margin: 0;
+}
+.viking-hero {
+  margin: 0 0 24px;
+  text-align: center;
+}
+.viking-hero h1 {
+  margin: 8px 0;
+  color: #d0e2e5;
+  text-shadow: 0 2px 0 #24170d;
+}
+.viking-hero p,
+.viking-note {
+  color: #bdd0d4;
+}
+.viking-navigation {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin: 0 0 28px;
+  padding: 16px;
+  background: #24353b;
+  border: 2px solid #17272d;
+  box-shadow: inset 0 0 0 2px #718d97;
+}
+.viking-navigation a {
+  display: inline-block;
+  padding: 8px 12px;
+  color: #fff0d1;
+  background: #365a66;
+  border: 1px solid #95b1b9;
+  text-decoration: none;
+}
+.viking-navigation a:hover,
+.viking-navigation a:focus-visible {
+  background: #477383;
+  color: #fff8e8;
+}
+.viking-navigation a:focus-visible,
+.viking-card a:focus-visible {
+  outline: 3px solid #f0cf85;
+  outline-offset: 3px;
+}
+.viking-section {
+  margin: 0 0 34px;
+  min-width: 0;
+  padding: 24px;
+  background: #283d43;
+  border: 2px solid #17272d;
+  box-shadow: inset 0 0 0 2px #718d97, 0 7px 18px #1d100888;
+}
+.viking-section > h2 {
+  margin: -24px -24px 23px;
+  padding: 15px 22px 18px;
+  color: #fff0cf;
+  background: #5b4029 url('../../../assets/wood.svg');
+  background-size: 288px 96px;
+  border-bottom: 3px solid #17272d;
+  font: 40px/1.12 Jacquard, Georgia, serif;
+  text-shadow: 2px 2px #2d221a;
+  overflow-wrap: anywhere;
+}
+.viking-group {
+  margin-top: 24px;
+  padding-top: 18px;
+  border-top: 1px solid #718d97;
+}
+.viking-group h3,
+.viking-pose-row > h3,
+.viking-pose-metal h4 {
+  color: #c1d8dc;
+}
+.viking-group h3,
+.viking-pose-row > h3 {
+  margin: 0 0 18px;
+  font: 32px/1.15 Jacquard, Georgia, serif;
+}
+.viking-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+  align-items: start;
+}
+.viking-card {
+  margin: 0;
+  min-width: 0;
+  text-align: center;
+}
+.viking-card a {
+  display: block;
+}
+.viking-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  object-fit: contain;
+  background: #1b2c32;
+  border: 3px solid #17272d;
+  box-shadow: 0 0 0 2px #d0aa62;
+  image-rendering: pixelated;
+}
+.viking-card figcaption {
+  margin-top: 12px;
+  color: #f1dfbd;
+  font-size: 23px;
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+}
+.viking-introduction-grid {
+  grid-template-columns: 1fr;
+  gap: 30px;
+}
+.viking-introduction-grid img {
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+}
+.viking-pose-row {
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 2px solid #718d97;
+}
+.viking-pose-metals {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+}
+.viking-pose-metal {
+  min-width: 0;
+}
+.viking-pose-pair {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+}
+.viking-pose-pair .viking-card img {
+  aspect-ratio: 3 / 4;
+  object-fit: contain;
+}
+.viking-footer-links {
+  margin-top: 28px;
+}
+@media (max-width: 920px) {
+  .viking-grid { gap: 16px; }
+  .viking-pose-metals { gap: 14px; }
+}
+@media (max-width: 680px) {
+  .viking-section { padding: 16px; }
+  .viking-section > h2 {
+    margin: -16px -16px 18px;
+    padding: 14px 16px 16px;
+    font-size: 32px;
+  }
+  .viking-grid { grid-template-columns: 1fr; gap: 20px 12px; }
+  .viking-introduction-grid { grid-template-columns: 1fr; gap: 24px; }
+  .viking-pose-metals { grid-template-columns: 1fr; gap: 0; }
+  .viking-card figcaption { font-size: 21px; }
+}
+@media (max-width: 430px) {
+  .viking-grid,
+  .viking-introduction-grid { grid-template-columns: 1fr; }
+}
+
+/* Keep small-screen galleries compact; wideshots remain full width. */
+@media (min-width:431px) and (max-width:680px) { .viking-grid:not(.viking-introduction-grid) { grid-template-columns:repeat(2,minmax(0,1fr)); } }

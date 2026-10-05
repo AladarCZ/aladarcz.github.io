@@ -48,3 +48,15 @@ a.collection-button:focus-visible {
   color: #fff8e8;
   background: #c07836;
 }
+
+/* Viking: matches its collection page. */
+.panel a.collection-button.viking-button,
+.collection-shortcuts a.collection-button.viking-button { color:#fff1d8; background:#365a66; border-color:#95b1b9; }
+.panel a.collection-button.viking-button:hover,
+.collection-shortcuts a.collection-button.viking-button:hover { background:#477383; }
+
+/* Hussar: matches its collection page. */
+.panel a.collection-button.hussar-button,
+.collection-shortcuts a.collection-button.hussar-button { color:#fff1d8; background:#67434f; border-color:#c49b89; }
+.panel a.collection-button.hussar-button:hover,
+.collection-shortcuts a.collection-button.hussar-button:hover { background:#845767; }

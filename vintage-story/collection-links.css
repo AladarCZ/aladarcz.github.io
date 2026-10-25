@@ -14,3 +14,10 @@ a.collection-button:focus-visible { outline: 3px solid #e8cc84; outline-offset: 
 /* Hussar: matches its collection page. */
 .panel a.collection-button.hussar-button, .collection-shortcuts a.collection-button.hussar-button { color:#fff1d8; background:#67434f; border-color:#c49b89; }
 .panel a.collection-button.hussar-button:hover, .collection-shortcuts a.collection-button.hussar-button:hover { background:#845767; }
+/* Jousting, Landsknecht and Templar use the existing collection button geometry. */
+.panel a.collection-button.jousting-button, .collection-shortcuts a.collection-button.jousting-button { color:#2d221a; background:#d4af37; border-color:#f1d77a; }
+.panel a.collection-button.jousting-button:hover, .collection-shortcuts a.collection-button.jousting-button:hover { background:#e6c354; }
+.panel a.collection-button.landsknecht-button, .collection-shortcuts a.collection-button.landsknecht-button { color:#ffe066; background:#142c50; border-color:#6686ad; }
+.panel a.collection-button.landsknecht-button:hover, .collection-shortcuts a.collection-button.landsknecht-button:hover { background:#203e67; }
+.panel a.collection-button.templar-button, .collection-shortcuts a.collection-button.templar-button { color:#a10f32; background:#ffffff; border-color:#d4bfc5; }
+.panel a.collection-button.templar-button:hover, .collection-shortcuts a.collection-button.templar-button:hover { background:#f5e8ec; }

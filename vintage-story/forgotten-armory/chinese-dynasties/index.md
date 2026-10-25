@@ -58,7 +58,28 @@ title: Forgotten Armory — Chinese Dynasties
   </a>
   <figcaption>Communis-Cauda</figcaption>
 </figure>
-</div>
+
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-helmet/communis/laurea.png" aria-label="Open Laurea image"><img src="images/song-helmet/communis/laurea.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — helmet — Communis-Laurea — placeholder"></a>
+  <figcaption>Communis-Laurea</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-helmet/communis/corona.png" aria-label="Open Corona image"><img src="images/song-helmet/communis/corona.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — helmet — Communis-Corona — placeholder"></a>
+  <figcaption>Communis-Corona</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-helmet/communis/cervinus.png" aria-label="Open Cervinus image"><img src="images/song-helmet/communis/cervinus.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — helmet — Communis-Cervinus — placeholder"></a>
+  <figcaption>Communis-Cervinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-helmet/communis/arietinus.png" aria-label="Open Arietinus image"><img src="images/song-helmet/communis/arietinus.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — helmet — Communis-Arietinus — placeholder"></a>
+  <figcaption>Communis-Arietinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-helmet/communis/taurinus.png" aria-label="Open Taurinus image"><img src="images/song-helmet/communis/taurinus.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — helmet — Communis-Taurinus — placeholder"></a>
+  <figcaption>Communis-Taurinus</figcaption>
+</figure>
+      </div>
 </section>
 <section class="dynasties-decoration-group" aria-labelledby="song-helmet-regalis-title"><h3 id="song-helmet-regalis-title">Regalis</h3>
 <div class="dynasties-decoration-grid">
@@ -96,7 +117,28 @@ title: Forgotten Armory — Chinese Dynasties
   </a>
   <figcaption>Regalis-Cauda</figcaption>
 </figure>
-</div>
+
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-helmet/regalis/laurea.png" aria-label="Open Laurea image"><img src="images/song-helmet/regalis/laurea.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — helmet — Regalis-Laurea — placeholder"></a>
+  <figcaption>Regalis-Laurea</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-helmet/regalis/corona.png" aria-label="Open Corona image"><img src="images/song-helmet/regalis/corona.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — helmet — Regalis-Corona — placeholder"></a>
+  <figcaption>Regalis-Corona</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-helmet/regalis/cervinus.png" aria-label="Open Cervinus image"><img src="images/song-helmet/regalis/cervinus.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — helmet — Regalis-Cervinus — placeholder"></a>
+  <figcaption>Regalis-Cervinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-helmet/regalis/arietinus.png" aria-label="Open Arietinus image"><img src="images/song-helmet/regalis/arietinus.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — helmet — Regalis-Arietinus — placeholder"></a>
+  <figcaption>Regalis-Arietinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-helmet/regalis/taurinus.png" aria-label="Open Taurinus image"><img src="images/song-helmet/regalis/taurinus.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — helmet — Regalis-Taurinus — placeholder"></a>
+  <figcaption>Regalis-Taurinus</figcaption>
+</figure>
+      </div>
 </section>
 <section class="dynasties-decoration-group" aria-labelledby="song-helmet-metallicus-title"><h3 id="song-helmet-metallicus-title">Metallicus</h3>
 <div class="dynasties-decoration-grid">
@@ -173,7 +215,28 @@ title: Forgotten Armory — Chinese Dynasties
   </a>
   <figcaption>Communis-Cauda</figcaption>
 </figure>
-</div>
+
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-masked-helmet/communis/laurea.png" aria-label="Open Laurea image"><img src="images/song-masked-helmet/communis/laurea.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked helmet — Communis-Laurea — placeholder"></a>
+  <figcaption>Communis-Laurea</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-masked-helmet/communis/corona.png" aria-label="Open Corona image"><img src="images/song-masked-helmet/communis/corona.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked helmet — Communis-Corona — placeholder"></a>
+  <figcaption>Communis-Corona</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-masked-helmet/communis/cervinus.png" aria-label="Open Cervinus image"><img src="images/song-masked-helmet/communis/cervinus.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked helmet — Communis-Cervinus — placeholder"></a>
+  <figcaption>Communis-Cervinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-masked-helmet/communis/arietinus.png" aria-label="Open Arietinus image"><img src="images/song-masked-helmet/communis/arietinus.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked helmet — Communis-Arietinus — placeholder"></a>
+  <figcaption>Communis-Arietinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-masked-helmet/communis/taurinus.png" aria-label="Open Taurinus image"><img src="images/song-masked-helmet/communis/taurinus.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked helmet — Communis-Taurinus — placeholder"></a>
+  <figcaption>Communis-Taurinus</figcaption>
+</figure>
+      </div>
 </section>
 <section class="dynasties-decoration-group" aria-labelledby="song-masked-helmet-regalis-title"><h3 id="song-masked-helmet-regalis-title">Regalis</h3>
 <div class="dynasties-decoration-grid">
@@ -211,7 +274,28 @@ title: Forgotten Armory — Chinese Dynasties
   </a>
   <figcaption>Regalis-Cauda</figcaption>
 </figure>
-</div>
+
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-masked-helmet/regalis/laurea.png" aria-label="Open Laurea image"><img src="images/song-masked-helmet/regalis/laurea.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked helmet — Regalis-Laurea — placeholder"></a>
+  <figcaption>Regalis-Laurea</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-masked-helmet/regalis/corona.png" aria-label="Open Corona image"><img src="images/song-masked-helmet/regalis/corona.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked helmet — Regalis-Corona — placeholder"></a>
+  <figcaption>Regalis-Corona</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-masked-helmet/regalis/cervinus.png" aria-label="Open Cervinus image"><img src="images/song-masked-helmet/regalis/cervinus.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked helmet — Regalis-Cervinus — placeholder"></a>
+  <figcaption>Regalis-Cervinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-masked-helmet/regalis/arietinus.png" aria-label="Open Arietinus image"><img src="images/song-masked-helmet/regalis/arietinus.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked helmet — Regalis-Arietinus — placeholder"></a>
+  <figcaption>Regalis-Arietinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-masked-helmet/regalis/taurinus.png" aria-label="Open Taurinus image"><img src="images/song-masked-helmet/regalis/taurinus.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked helmet — Regalis-Taurinus — placeholder"></a>
+  <figcaption>Regalis-Taurinus</figcaption>
+</figure>
+      </div>
 </section>
 <section class="dynasties-decoration-group" aria-labelledby="song-masked-helmet-metallicus-title"><h3 id="song-masked-helmet-metallicus-title">Metallicus</h3>
 <div class="dynasties-decoration-grid">
@@ -288,7 +372,28 @@ title: Forgotten Armory — Chinese Dynasties
   </a>
   <figcaption>Communis-Cauda</figcaption>
 </figure>
-</div>
+
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/jin-helmet/communis/laurea.png" aria-label="Open Laurea image"><img src="images/jin-helmet/communis/laurea.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — helmet — Communis-Laurea — placeholder"></a>
+  <figcaption>Communis-Laurea</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/jin-helmet/communis/corona.png" aria-label="Open Corona image"><img src="images/jin-helmet/communis/corona.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — helmet — Communis-Corona — placeholder"></a>
+  <figcaption>Communis-Corona</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/jin-helmet/communis/cervinus.png" aria-label="Open Cervinus image"><img src="images/jin-helmet/communis/cervinus.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — helmet — Communis-Cervinus — placeholder"></a>
+  <figcaption>Communis-Cervinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/jin-helmet/communis/arietinus.png" aria-label="Open Arietinus image"><img src="images/jin-helmet/communis/arietinus.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — helmet — Communis-Arietinus — placeholder"></a>
+  <figcaption>Communis-Arietinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/jin-helmet/communis/taurinus.png" aria-label="Open Taurinus image"><img src="images/jin-helmet/communis/taurinus.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — helmet — Communis-Taurinus — placeholder"></a>
+  <figcaption>Communis-Taurinus</figcaption>
+</figure>
+      </div>
 </section>
 <section class="dynasties-decoration-group" aria-labelledby="jin-helmet-regalis-title"><h3 id="jin-helmet-regalis-title">Regalis</h3>
 <div class="dynasties-decoration-grid">
@@ -326,7 +431,28 @@ title: Forgotten Armory — Chinese Dynasties
   </a>
   <figcaption>Regalis-Cauda</figcaption>
 </figure>
-</div>
+
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/jin-helmet/regalis/laurea.png" aria-label="Open Laurea image"><img src="images/jin-helmet/regalis/laurea.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — helmet — Regalis-Laurea — placeholder"></a>
+  <figcaption>Regalis-Laurea</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/jin-helmet/regalis/corona.png" aria-label="Open Corona image"><img src="images/jin-helmet/regalis/corona.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — helmet — Regalis-Corona — placeholder"></a>
+  <figcaption>Regalis-Corona</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/jin-helmet/regalis/cervinus.png" aria-label="Open Cervinus image"><img src="images/jin-helmet/regalis/cervinus.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — helmet — Regalis-Cervinus — placeholder"></a>
+  <figcaption>Regalis-Cervinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/jin-helmet/regalis/arietinus.png" aria-label="Open Arietinus image"><img src="images/jin-helmet/regalis/arietinus.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — helmet — Regalis-Arietinus — placeholder"></a>
+  <figcaption>Regalis-Arietinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/jin-helmet/regalis/taurinus.png" aria-label="Open Taurinus image"><img src="images/jin-helmet/regalis/taurinus.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — helmet — Regalis-Taurinus — placeholder"></a>
+  <figcaption>Regalis-Taurinus</figcaption>
+</figure>
+      </div>
 </section>
 <section class="dynasties-decoration-group" aria-labelledby="jin-helmet-metallicus-title"><h3 id="jin-helmet-metallicus-title">Metallicus</h3>
 <div class="dynasties-decoration-grid">
@@ -415,7 +541,28 @@ title: Forgotten Armory — Chinese Dynasties
   </a>
   <figcaption>Communis-Cauda</figcaption>
 </figure>
-</div>
+
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/yuan-helmet/communis/laurea.png" aria-label="Open Laurea image"><img src="images/yuan-helmet/communis/laurea.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — helmet — Communis-Laurea — placeholder"></a>
+  <figcaption>Communis-Laurea</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/yuan-helmet/communis/corona.png" aria-label="Open Corona image"><img src="images/yuan-helmet/communis/corona.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — helmet — Communis-Corona — placeholder"></a>
+  <figcaption>Communis-Corona</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/yuan-helmet/communis/cervinus.png" aria-label="Open Cervinus image"><img src="images/yuan-helmet/communis/cervinus.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — helmet — Communis-Cervinus — placeholder"></a>
+  <figcaption>Communis-Cervinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/yuan-helmet/communis/arietinus.png" aria-label="Open Arietinus image"><img src="images/yuan-helmet/communis/arietinus.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — helmet — Communis-Arietinus — placeholder"></a>
+  <figcaption>Communis-Arietinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/yuan-helmet/communis/taurinus.png" aria-label="Open Taurinus image"><img src="images/yuan-helmet/communis/taurinus.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — helmet — Communis-Taurinus — placeholder"></a>
+  <figcaption>Communis-Taurinus</figcaption>
+</figure>
+      </div>
 </section>
 <section class="dynasties-decoration-group" aria-labelledby="yuan-helmet-regalis-title"><h3 id="yuan-helmet-regalis-title">Regalis</h3>
 <div class="dynasties-decoration-grid">
@@ -453,7 +600,28 @@ title: Forgotten Armory — Chinese Dynasties
   </a>
   <figcaption>Regalis-Cauda</figcaption>
 </figure>
-</div>
+
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/yuan-helmet/regalis/laurea.png" aria-label="Open Laurea image"><img src="images/yuan-helmet/regalis/laurea.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — helmet — Regalis-Laurea — placeholder"></a>
+  <figcaption>Regalis-Laurea</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/yuan-helmet/regalis/corona.png" aria-label="Open Corona image"><img src="images/yuan-helmet/regalis/corona.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — helmet — Regalis-Corona — placeholder"></a>
+  <figcaption>Regalis-Corona</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/yuan-helmet/regalis/cervinus.png" aria-label="Open Cervinus image"><img src="images/yuan-helmet/regalis/cervinus.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — helmet — Regalis-Cervinus — placeholder"></a>
+  <figcaption>Regalis-Cervinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/yuan-helmet/regalis/arietinus.png" aria-label="Open Arietinus image"><img src="images/yuan-helmet/regalis/arietinus.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — helmet — Regalis-Arietinus — placeholder"></a>
+  <figcaption>Regalis-Arietinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/yuan-helmet/regalis/taurinus.png" aria-label="Open Taurinus image"><img src="images/yuan-helmet/regalis/taurinus.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — helmet — Regalis-Taurinus — placeholder"></a>
+  <figcaption>Regalis-Taurinus</figcaption>
+</figure>
+      </div>
 </section>
 <section class="dynasties-decoration-group" aria-labelledby="yuan-helmet-metallicus-title"><h3 id="yuan-helmet-metallicus-title">Metallicus</h3>
 <div class="dynasties-decoration-grid">
@@ -529,7 +697,28 @@ title: Forgotten Armory — Chinese Dynasties
   </a>
   <figcaption>Communis-Cauda</figcaption>
 </figure>
-</div>
+
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/royal-qing-helmet/communis/laurea.png" aria-label="Open Laurea image"><img src="images/royal-qing-helmet/communis/laurea.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — helmet — Communis-Laurea — placeholder"></a>
+  <figcaption>Communis-Laurea</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/royal-qing-helmet/communis/corona.png" aria-label="Open Corona image"><img src="images/royal-qing-helmet/communis/corona.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — helmet — Communis-Corona — placeholder"></a>
+  <figcaption>Communis-Corona</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/royal-qing-helmet/communis/cervinus.png" aria-label="Open Cervinus image"><img src="images/royal-qing-helmet/communis/cervinus.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — helmet — Communis-Cervinus — placeholder"></a>
+  <figcaption>Communis-Cervinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/royal-qing-helmet/communis/arietinus.png" aria-label="Open Arietinus image"><img src="images/royal-qing-helmet/communis/arietinus.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — helmet — Communis-Arietinus — placeholder"></a>
+  <figcaption>Communis-Arietinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/royal-qing-helmet/communis/taurinus.png" aria-label="Open Taurinus image"><img src="images/royal-qing-helmet/communis/taurinus.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — helmet — Communis-Taurinus — placeholder"></a>
+  <figcaption>Communis-Taurinus</figcaption>
+</figure>
+      </div>
 </section>
 <section class="dynasties-decoration-group" aria-labelledby="royal-qing-helmet-regalis-title"><h3 id="royal-qing-helmet-regalis-title">Regalis</h3>
 <div class="dynasties-decoration-grid">
@@ -567,7 +756,28 @@ title: Forgotten Armory — Chinese Dynasties
   </a>
   <figcaption>Regalis-Cauda</figcaption>
 </figure>
-</div>
+
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/royal-qing-helmet/regalis/laurea.png" aria-label="Open Laurea image"><img src="images/royal-qing-helmet/regalis/laurea.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — helmet — Regalis-Laurea — placeholder"></a>
+  <figcaption>Regalis-Laurea</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/royal-qing-helmet/regalis/corona.png" aria-label="Open Corona image"><img src="images/royal-qing-helmet/regalis/corona.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — helmet — Regalis-Corona — placeholder"></a>
+  <figcaption>Regalis-Corona</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/royal-qing-helmet/regalis/cervinus.png" aria-label="Open Cervinus image"><img src="images/royal-qing-helmet/regalis/cervinus.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — helmet — Regalis-Cervinus — placeholder"></a>
+  <figcaption>Regalis-Cervinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/royal-qing-helmet/regalis/arietinus.png" aria-label="Open Arietinus image"><img src="images/royal-qing-helmet/regalis/arietinus.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — helmet — Regalis-Arietinus — placeholder"></a>
+  <figcaption>Regalis-Arietinus</figcaption>
+</figure>
+        <figure class="dynasties-card">
+  <a class="dynasties-image" href="images/royal-qing-helmet/regalis/taurinus.png" aria-label="Open Taurinus image"><img src="images/royal-qing-helmet/regalis/taurinus.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — helmet — Regalis-Taurinus — placeholder"></a>
+  <figcaption>Regalis-Taurinus</figcaption>
+</figure>
+      </div>
 </section>
 <section class="dynasties-decoration-group" aria-labelledby="royal-qing-helmet-metallicus-title"><h3 id="royal-qing-helmet-metallicus-title">Metallicus</h3>
 <div class="dynasties-decoration-grid">

@@ -74,6 +74,37 @@ title: Forgotten Armory — Viking
             </a>
             <figcaption>Communis-Cauda</figcaption>
           </figure>
+
+        <figure class="viking-card">
+            <a href="images/bjarnholdr-helmet/communis/laurea.png">
+              <img width="480" height="480" src="images/bjarnholdr-helmet/communis/laurea.png" alt="Bjarnholdr — helmet — Communis-Laurea — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Laurea</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/bjarnholdr-helmet/communis/corona.png">
+              <img width="480" height="480" src="images/bjarnholdr-helmet/communis/corona.png" alt="Bjarnholdr — helmet — Communis-Corona — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Corona</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/bjarnholdr-helmet/communis/cervinus.png">
+              <img width="480" height="480" src="images/bjarnholdr-helmet/communis/cervinus.png" alt="Bjarnholdr — helmet — Communis-Cervinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Cervinus</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/bjarnholdr-helmet/communis/arietinus.png">
+              <img width="480" height="480" src="images/bjarnholdr-helmet/communis/arietinus.png" alt="Bjarnholdr — helmet — Communis-Arietinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Arietinus</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/bjarnholdr-helmet/communis/taurinus.png">
+              <img width="480" height="480" src="images/bjarnholdr-helmet/communis/taurinus.png" alt="Bjarnholdr — helmet — Communis-Taurinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Taurinus</figcaption>
+          </figure>
     </div>
   </div>
   <div class="viking-group">
@@ -126,6 +157,37 @@ title: Forgotten Armory — Viking
               <img src="images/bjarnholdr-helmet/regalis/cauda.png" alt="Bjarnholdr — helmet — Regalis-Cauda — placeholder" loading="lazy">
             </a>
             <figcaption>Regalis-Cauda</figcaption>
+          </figure>
+
+        <figure class="viking-card">
+            <a href="images/bjarnholdr-helmet/regalis/laurea.png">
+              <img width="480" height="480" src="images/bjarnholdr-helmet/regalis/laurea.png" alt="Bjarnholdr — helmet — Regalis-Laurea — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Laurea</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/bjarnholdr-helmet/regalis/corona.png">
+              <img width="480" height="480" src="images/bjarnholdr-helmet/regalis/corona.png" alt="Bjarnholdr — helmet — Regalis-Corona — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Corona</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/bjarnholdr-helmet/regalis/cervinus.png">
+              <img width="480" height="480" src="images/bjarnholdr-helmet/regalis/cervinus.png" alt="Bjarnholdr — helmet — Regalis-Cervinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Cervinus</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/bjarnholdr-helmet/regalis/arietinus.png">
+              <img width="480" height="480" src="images/bjarnholdr-helmet/regalis/arietinus.png" alt="Bjarnholdr — helmet — Regalis-Arietinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Arietinus</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/bjarnholdr-helmet/regalis/taurinus.png">
+              <img width="480" height="480" src="images/bjarnholdr-helmet/regalis/taurinus.png" alt="Bjarnholdr — helmet — Regalis-Taurinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Taurinus</figcaption>
           </figure>
     </div>
   </div>
@@ -343,6 +405,37 @@ title: Forgotten Armory — Viking
             </a>
             <figcaption>Communis-Cauda</figcaption>
           </figure>
+
+        <figure class="viking-card">
+            <a href="images/ragnjorn-helmet/communis/laurea.png">
+              <img width="480" height="480" src="images/ragnjorn-helmet/communis/laurea.png" alt="Ragnjorn — helmet — Communis-Laurea — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Laurea</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/ragnjorn-helmet/communis/corona.png">
+              <img width="480" height="480" src="images/ragnjorn-helmet/communis/corona.png" alt="Ragnjorn — helmet — Communis-Corona — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Corona</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/ragnjorn-helmet/communis/cervinus.png">
+              <img width="480" height="480" src="images/ragnjorn-helmet/communis/cervinus.png" alt="Ragnjorn — helmet — Communis-Cervinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Cervinus</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/ragnjorn-helmet/communis/arietinus.png">
+              <img width="480" height="480" src="images/ragnjorn-helmet/communis/arietinus.png" alt="Ragnjorn — helmet — Communis-Arietinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Arietinus</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/ragnjorn-helmet/communis/taurinus.png">
+              <img width="480" height="480" src="images/ragnjorn-helmet/communis/taurinus.png" alt="Ragnjorn — helmet — Communis-Taurinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Taurinus</figcaption>
+          </figure>
     </div>
   </div>
   <div class="viking-group">
@@ -395,6 +488,37 @@ title: Forgotten Armory — Viking
               <img src="images/ragnjorn-helmet/regalis/cauda.png" alt="Ragnjorn — helmet — Regalis-Cauda — placeholder" loading="lazy">
             </a>
             <figcaption>Regalis-Cauda</figcaption>
+          </figure>
+
+        <figure class="viking-card">
+            <a href="images/ragnjorn-helmet/regalis/laurea.png">
+              <img width="480" height="480" src="images/ragnjorn-helmet/regalis/laurea.png" alt="Ragnjorn — helmet — Regalis-Laurea — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Laurea</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/ragnjorn-helmet/regalis/corona.png">
+              <img width="480" height="480" src="images/ragnjorn-helmet/regalis/corona.png" alt="Ragnjorn — helmet — Regalis-Corona — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Corona</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/ragnjorn-helmet/regalis/cervinus.png">
+              <img width="480" height="480" src="images/ragnjorn-helmet/regalis/cervinus.png" alt="Ragnjorn — helmet — Regalis-Cervinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Cervinus</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/ragnjorn-helmet/regalis/arietinus.png">
+              <img width="480" height="480" src="images/ragnjorn-helmet/regalis/arietinus.png" alt="Ragnjorn — helmet — Regalis-Arietinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Arietinus</figcaption>
+          </figure>
+        <figure class="viking-card">
+            <a href="images/ragnjorn-helmet/regalis/taurinus.png">
+              <img width="480" height="480" src="images/ragnjorn-helmet/regalis/taurinus.png" alt="Ragnjorn — helmet — Regalis-Taurinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Taurinus</figcaption>
           </figure>
     </div>
   </div>

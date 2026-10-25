@@ -84,6 +84,37 @@ title: Forgotten Armory — Greenwich
           </a>
           <figcaption>Communis-Vexillum</figcaption>
         </figure>
+
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/armet/communis/laurea.png" aria-label="Open Communis-laurea image">
+            <img src="images/armet/communis/laurea.png" width="480" height="480" loading="lazy" alt="Communis-laurea — placeholder">
+          </a>
+          <figcaption>Communis-Laurea</figcaption>
+        </figure>
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/armet/communis/corona.png" aria-label="Open Communis-corona image">
+            <img src="images/armet/communis/corona.png" width="480" height="480" loading="lazy" alt="Communis-corona — placeholder">
+          </a>
+          <figcaption>Communis-Corona</figcaption>
+        </figure>
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/armet/communis/cervinus.png" aria-label="Open Communis-cervinus image">
+            <img src="images/armet/communis/cervinus.png" width="480" height="480" loading="lazy" alt="Communis-cervinus — placeholder">
+          </a>
+          <figcaption>Communis-Cervinus</figcaption>
+        </figure>
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/armet/communis/arietinus.png" aria-label="Open Communis-arietinus image">
+            <img src="images/armet/communis/arietinus.png" width="480" height="480" loading="lazy" alt="Communis-arietinus — placeholder">
+          </a>
+          <figcaption>Communis-Arietinus</figcaption>
+        </figure>
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/armet/communis/taurinus.png" aria-label="Open Communis-taurinus image">
+            <img src="images/armet/communis/taurinus.png" width="480" height="480" loading="lazy" alt="Communis-taurinus — placeholder">
+          </a>
+          <figcaption>Communis-Taurinus</figcaption>
+        </figure>
       </div>
     </section>
     <section class="greenwich-decoration-group" aria-labelledby="armet-regalis-title">
@@ -130,6 +161,37 @@ title: Forgotten Armory — Greenwich
             <img src="images/armet/regalis/vexillum.png" width="480" height="480" loading="lazy" alt="Regalis-vexillum — placeholder">
           </a>
           <figcaption>Regalis-Vexillum</figcaption>
+        </figure>
+
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/armet/regalis/laurea.png" aria-label="Open Regalis-laurea image">
+            <img src="images/armet/regalis/laurea.png" width="480" height="480" loading="lazy" alt="Regalis-laurea — placeholder">
+          </a>
+          <figcaption>Regalis-Laurea</figcaption>
+        </figure>
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/armet/regalis/corona.png" aria-label="Open Regalis-corona image">
+            <img src="images/armet/regalis/corona.png" width="480" height="480" loading="lazy" alt="Regalis-corona — placeholder">
+          </a>
+          <figcaption>Regalis-Corona</figcaption>
+        </figure>
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/armet/regalis/cervinus.png" aria-label="Open Regalis-cervinus image">
+            <img src="images/armet/regalis/cervinus.png" width="480" height="480" loading="lazy" alt="Regalis-cervinus — placeholder">
+          </a>
+          <figcaption>Regalis-Cervinus</figcaption>
+        </figure>
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/armet/regalis/arietinus.png" aria-label="Open Regalis-arietinus image">
+            <img src="images/armet/regalis/arietinus.png" width="480" height="480" loading="lazy" alt="Regalis-arietinus — placeholder">
+          </a>
+          <figcaption>Regalis-Arietinus</figcaption>
+        </figure>
+        <figure class="greenwich-card">
+          <a class="greenwich-image" href="images/armet/regalis/taurinus.png" aria-label="Open Regalis-taurinus image">
+            <img src="images/armet/regalis/taurinus.png" width="480" height="480" loading="lazy" alt="Regalis-taurinus — placeholder">
+          </a>
+          <figcaption>Regalis-Taurinus</figcaption>
         </figure>
       </div>
     </section>

@@ -104,6 +104,37 @@ title: Forgotten Armory — Varangian
             </a>
             <figcaption>Communis-Cauda</figcaption>
           </figure>
+
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/laurea.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/laurea.png' | relative_url }}" alt="Communis-Laurea — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Laurea</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/corona.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/corona.png' | relative_url }}" alt="Communis-Corona — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Corona</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/cervinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/cervinus.png' | relative_url }}" alt="Communis-Cervinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Cervinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/arietinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/arietinus.png' | relative_url }}" alt="Communis-Arietinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Arietinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/taurinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/taurinus.png' | relative_url }}" alt="Communis-Taurinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Taurinus</figcaption>
+          </figure>
     </div>
   </div>
   <div class="varangian-group">
@@ -156,6 +187,37 @@ title: Forgotten Armory — Varangian
               <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/cauda.png' | relative_url }}" alt="Regalis-Cauda" loading="lazy">
             </a>
             <figcaption>Regalis-Cauda</figcaption>
+          </figure>
+
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/laurea.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/laurea.png' | relative_url }}" alt="Regalis-Laurea — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Laurea</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/corona.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/corona.png' | relative_url }}" alt="Regalis-Corona — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Corona</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/cervinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/cervinus.png' | relative_url }}" alt="Regalis-Cervinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Cervinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/arietinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/arietinus.png' | relative_url }}" alt="Regalis-Arietinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Arietinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/taurinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/taurinus.png' | relative_url }}" alt="Regalis-Taurinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Taurinus</figcaption>
           </figure>
     </div>
   </div>
@@ -266,6 +328,37 @@ title: Forgotten Armory — Varangian
             </a>
             <figcaption>Communis-Cauda</figcaption>
           </figure>
+
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/laurea.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/laurea.png' | relative_url }}" alt="Communis-Laurea — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Laurea</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/corona.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/corona.png' | relative_url }}" alt="Communis-Corona — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Corona</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/cervinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/cervinus.png' | relative_url }}" alt="Communis-Cervinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Cervinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/arietinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/arietinus.png' | relative_url }}" alt="Communis-Arietinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Arietinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/taurinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/taurinus.png' | relative_url }}" alt="Communis-Taurinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Taurinus</figcaption>
+          </figure>
     </div>
   </div>
   <div class="varangian-group">
@@ -318,6 +411,37 @@ title: Forgotten Armory — Varangian
               <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/cauda.png' | relative_url }}" alt="Regalis-Cauda" loading="lazy">
             </a>
             <figcaption>Regalis-Cauda</figcaption>
+          </figure>
+
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/laurea.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/laurea.png' | relative_url }}" alt="Regalis-Laurea — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Laurea</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/corona.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/corona.png' | relative_url }}" alt="Regalis-Corona — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Corona</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/cervinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/cervinus.png' | relative_url }}" alt="Regalis-Cervinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Cervinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/arietinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/arietinus.png' | relative_url }}" alt="Regalis-Arietinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Arietinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/taurinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/taurinus.png' | relative_url }}" alt="Regalis-Taurinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Taurinus</figcaption>
           </figure>
     </div>
   </div>
@@ -428,6 +552,37 @@ title: Forgotten Armory — Varangian
             </a>
             <figcaption>Communis-Cauda</figcaption>
           </figure>
+
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/laurea.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/laurea.png' | relative_url }}" alt="Communis-Laurea — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Laurea</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/corona.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/corona.png' | relative_url }}" alt="Communis-Corona — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Corona</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/cervinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/cervinus.png' | relative_url }}" alt="Communis-Cervinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Cervinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/arietinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/arietinus.png' | relative_url }}" alt="Communis-Arietinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Arietinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/taurinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/taurinus.png' | relative_url }}" alt="Communis-Taurinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Taurinus</figcaption>
+          </figure>
     </div>
   </div>
   <div class="varangian-group">
@@ -480,6 +635,37 @@ title: Forgotten Armory — Varangian
               <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/cauda.png' | relative_url }}" alt="Regalis-Cauda" loading="lazy">
             </a>
             <figcaption>Regalis-Cauda</figcaption>
+          </figure>
+
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/laurea.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/laurea.png' | relative_url }}" alt="Regalis-Laurea — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Laurea</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/corona.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/corona.png' | relative_url }}" alt="Regalis-Corona — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Corona</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/cervinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/cervinus.png' | relative_url }}" alt="Regalis-Cervinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Cervinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/arietinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/arietinus.png' | relative_url }}" alt="Regalis-Arietinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Arietinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/taurinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/taurinus.png' | relative_url }}" alt="Regalis-Taurinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Taurinus</figcaption>
           </figure>
     </div>
   </div>
@@ -590,6 +776,37 @@ title: Forgotten Armory — Varangian
             </a>
             <figcaption>Communis-Cauda</figcaption>
           </figure>
+
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/laurea.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/laurea.png' | relative_url }}" alt="Communis-Laurea — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Laurea</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/corona.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/corona.png' | relative_url }}" alt="Communis-Corona — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Corona</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/cervinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/cervinus.png' | relative_url }}" alt="Communis-Cervinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Cervinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/arietinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/arietinus.png' | relative_url }}" alt="Communis-Arietinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Arietinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/taurinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/taurinus.png' | relative_url }}" alt="Communis-Taurinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Communis-Taurinus</figcaption>
+          </figure>
     </div>
   </div>
   <div class="varangian-group">
@@ -642,6 +859,37 @@ title: Forgotten Armory — Varangian
               <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/cauda.png' | relative_url }}" alt="Regalis-Cauda" loading="lazy">
             </a>
             <figcaption>Regalis-Cauda</figcaption>
+          </figure>
+
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/laurea.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/laurea.png' | relative_url }}" alt="Regalis-Laurea — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Laurea</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/corona.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/corona.png' | relative_url }}" alt="Regalis-Corona — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Corona</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/cervinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/cervinus.png' | relative_url }}" alt="Regalis-Cervinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Cervinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/arietinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/arietinus.png' | relative_url }}" alt="Regalis-Arietinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Arietinus</figcaption>
+          </figure>
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/taurinus.png' | relative_url }}">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/taurinus.png' | relative_url }}" alt="Regalis-Taurinus — placeholder" loading="lazy">
+            </a>
+            <figcaption>Regalis-Taurinus</figcaption>
           </figure>
     </div>
   </div>

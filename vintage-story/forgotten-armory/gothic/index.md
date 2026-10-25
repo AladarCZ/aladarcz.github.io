@@ -90,6 +90,37 @@ title: Forgotten Armory — Gothic
   </a>
   <figcaption>Communis-Cauda</figcaption>
 </figure>
+
+        <figure class="gothic-card">
+          <a class="gothic-image" href="images/sallet/communis/laurea.png" aria-label="Open Communis-laurea image">
+            <img src="images/sallet/communis/laurea.png" width="480" height="480" loading="lazy" alt="Communis-laurea — placeholder">
+          </a>
+          <figcaption>Communis-Laurea</figcaption>
+        </figure>
+        <figure class="gothic-card">
+          <a class="gothic-image" href="images/sallet/communis/corona.png" aria-label="Open Communis-corona image">
+            <img src="images/sallet/communis/corona.png" width="480" height="480" loading="lazy" alt="Communis-corona — placeholder">
+          </a>
+          <figcaption>Communis-Corona</figcaption>
+        </figure>
+        <figure class="gothic-card">
+          <a class="gothic-image" href="images/sallet/communis/cervinus.png" aria-label="Open Communis-cervinus image">
+            <img src="images/sallet/communis/cervinus.png" width="480" height="480" loading="lazy" alt="Communis-cervinus — placeholder">
+          </a>
+          <figcaption>Communis-Cervinus</figcaption>
+        </figure>
+        <figure class="gothic-card">
+          <a class="gothic-image" href="images/sallet/communis/arietinus.png" aria-label="Open Communis-arietinus image">
+            <img src="images/sallet/communis/arietinus.png" width="480" height="480" loading="lazy" alt="Communis-arietinus — placeholder">
+          </a>
+          <figcaption>Communis-Arietinus</figcaption>
+        </figure>
+        <figure class="gothic-card">
+          <a class="gothic-image" href="images/sallet/communis/taurinus.png" aria-label="Open Communis-taurinus image">
+            <img src="images/sallet/communis/taurinus.png" width="480" height="480" loading="lazy" alt="Communis-taurinus — placeholder">
+          </a>
+          <figcaption>Communis-Taurinus</figcaption>
+        </figure>
       </div>
     </section>
     <section class="gothic-decoration-group" aria-labelledby="sallet-regalis-title">
@@ -143,6 +174,37 @@ title: Forgotten Armory — Gothic
   </a>
   <figcaption>Regalis-Cauda</figcaption>
 </figure>
+
+        <figure class="gothic-card">
+          <a class="gothic-image" href="images/sallet/regalis/laurea.png" aria-label="Open Regalis-laurea image">
+            <img src="images/sallet/regalis/laurea.png" width="480" height="480" loading="lazy" alt="Regalis-laurea — placeholder">
+          </a>
+          <figcaption>Regalis-Laurea</figcaption>
+        </figure>
+        <figure class="gothic-card">
+          <a class="gothic-image" href="images/sallet/regalis/corona.png" aria-label="Open Regalis-corona image">
+            <img src="images/sallet/regalis/corona.png" width="480" height="480" loading="lazy" alt="Regalis-corona — placeholder">
+          </a>
+          <figcaption>Regalis-Corona</figcaption>
+        </figure>
+        <figure class="gothic-card">
+          <a class="gothic-image" href="images/sallet/regalis/cervinus.png" aria-label="Open Regalis-cervinus image">
+            <img src="images/sallet/regalis/cervinus.png" width="480" height="480" loading="lazy" alt="Regalis-cervinus — placeholder">
+          </a>
+          <figcaption>Regalis-Cervinus</figcaption>
+        </figure>
+        <figure class="gothic-card">
+          <a class="gothic-image" href="images/sallet/regalis/arietinus.png" aria-label="Open Regalis-arietinus image">
+            <img src="images/sallet/regalis/arietinus.png" width="480" height="480" loading="lazy" alt="Regalis-arietinus — placeholder">
+          </a>
+          <figcaption>Regalis-Arietinus</figcaption>
+        </figure>
+        <figure class="gothic-card">
+          <a class="gothic-image" href="images/sallet/regalis/taurinus.png" aria-label="Open Regalis-taurinus image">
+            <img src="images/sallet/regalis/taurinus.png" width="480" height="480" loading="lazy" alt="Regalis-taurinus — placeholder">
+          </a>
+          <figcaption>Regalis-Taurinus</figcaption>
+        </figure>
       </div>
     </section>
     <section class="gothic-decoration-group" aria-labelledby="sallet-metallicus-title">

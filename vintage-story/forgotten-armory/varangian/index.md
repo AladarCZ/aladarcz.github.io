@@ -5,6 +5,7 @@ title: Forgotten Armory — Varangian
 
 <link rel="stylesheet" href="{{ '/vintage-story/forgotten-armory/varangian/varangian.css' | relative_url }}?v=2">
 
+<link rel="stylesheet" href="{{ '/vintage-story/forgotten-armory/portfolio.css' | relative_url }}">
 <div class="breadcrumb">
   <a href="{{ '/vintage-story/forgotten-armory/' | relative_url }}">← Forgotten Armory</a>
 </div>
@@ -18,32 +19,32 @@ title: Forgotten Armory — Varangian
 
   <nav class="varangian-navigation" aria-label="Varangian sections">
     <a href="#introduction">Introduction</a>
-    <a href="#guard-helmet">Guard helmet</a>
-    <a href="#guard-masked-helmet">Guard masked helmet</a>
-    <a href="#captain-helmet">Captain helmet</a>
-    <a href="#captain-masked-helmet">Captain masked helmet</a>
-    <a href="#guard-chestplate">Guard chestplate</a>
-    <a href="#captain-chestplate">Captain chestplate</a>
-    <a href="#myrmidon-chestplate">Myrmidon chestplate</a>
-    <a href="#veteran-chestplate">Veteran chestplate</a>
-    <a href="#guard-legplate">Guard legplate</a>
-    <a href="#captain-legplate">Captain legplate</a>
+    <a href="#guard-helmet">Guard Head</a>
+    <a href="#guard-masked-helmet">Guard masked Head</a>
+    <a href="#captain-helmet">Captain Head</a>
+    <a href="#captain-masked-helmet">Captain masked Head</a>
+    <a href="#guard-chestplate">Guard Body</a>
+    <a href="#captain-chestplate">Captain Body</a>
+    <a href="#myrmidon-chestplate">Myrmidon Body</a>
+    <a href="#veteran-chestplate">Veteran Body</a>
+    <a href="#guard-legplate">Guard Legs</a>
+    <a href="#captain-legplate">Captain Legs</a>
     <a href="#poses">Poses</a>
   </nav>
 
   <section id="introduction" class="varangian-section" aria-labelledby="introduction-title">
     <h2 id="introduction-title">Introduction</h2>
     <p class="varangian-note">The two Varangian armor lines.</p>
-    <div class="varangian-grid varangian-introduction-grid">
-          <figure class="varangian-card">
+    <div class="varangian-grid varangian-introduction-grid fa-introduction-grid">
+          <figure class="varangian-card fa-introduction-set">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/introduction/guardset.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/introduction/guardset.png' | relative_url }}" alt="Guard set" fetchpriority="high">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/introduction/guardset.png' | relative_url }}" alt="Guard set" fetchpriority="high" width="1920" height="1080" class="fa-wideshot-image">
             </a>
             <figcaption>Guard set</figcaption>
           </figure>
-          <figure class="varangian-card">
+          <figure class="varangian-card fa-introduction-set">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/introduction/captainset.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/introduction/captainset.png' | relative_url }}" alt="Captain set" loading="lazy">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/introduction/captainset.png' | relative_url }}" alt="Captain set" loading="lazy" width="1920" height="1080" class="fa-wideshot-image">
             </a>
             <figcaption>Captain set</figcaption>
           </figure>
@@ -51,7 +52,7 @@ title: Forgotten Armory — Varangian
   </section>
 
 <section id="guard-helmet" class="varangian-section" aria-labelledby="guard-helmet-title">
-  <h2 id="guard-helmet-title">Guard Helmet decorations</h2>
+  <h2 id="guard-helmet-title">Guard — Head ornaments</h2>
   <p class="varangian-note">Decoration variants.</p>
   <div class="varangian-group">
     <h3>Communis</h3>
@@ -107,33 +108,45 @@ title: Forgotten Armory — Varangian
 
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/laurea.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/laurea.png' | relative_url }}" alt="Communis-Laurea — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/laurea.png' | relative_url }}" alt="Communis-Laurea" loading="lazy">
             </a>
             <figcaption>Communis-Laurea</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/corona.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/corona.png' | relative_url }}" alt="Communis-Corona — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/corona.png' | relative_url }}" alt="Communis-Corona" loading="lazy">
             </a>
             <figcaption>Communis-Corona</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/cervinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/cervinus.png' | relative_url }}" alt="Communis-Cervinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/cervinus.png' | relative_url }}" alt="Communis-Cervinus" loading="lazy">
             </a>
             <figcaption>Communis-Cervinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/arietinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/arietinus.png' | relative_url }}" alt="Communis-Arietinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/arietinus.png' | relative_url }}" alt="Communis-Arietinus" loading="lazy">
             </a>
             <figcaption>Communis-Arietinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/taurinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/taurinus.png' | relative_url }}" alt="Communis-Taurinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/taurinus.png' | relative_url }}" alt="Communis-Taurinus" loading="lazy">
             </a>
             <figcaption>Communis-Taurinus</figcaption>
+          </figure>
+    <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/animal/bear.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/animal/bear.png' | relative_url }}" alt="Animal-Bear" loading="lazy">
+            </a>
+            <figcaption>Animal-Bear</figcaption>
+          </figure>
+          <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/animal/wolf.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/animal/wolf.png' | relative_url }}" alt="Animal-Wolf" loading="lazy">
+            </a>
+            <figcaption>Animal-Wolf</figcaption>
           </figure>
     </div>
   </div>
@@ -191,31 +204,31 @@ title: Forgotten Armory — Varangian
 
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/laurea.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/laurea.png' | relative_url }}" alt="Regalis-Laurea — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/laurea.png' | relative_url }}" alt="Regalis-Laurea" loading="lazy">
             </a>
             <figcaption>Regalis-Laurea</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/corona.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/corona.png' | relative_url }}" alt="Regalis-Corona — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/corona.png' | relative_url }}" alt="Regalis-Corona" loading="lazy">
             </a>
             <figcaption>Regalis-Corona</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/cervinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/cervinus.png' | relative_url }}" alt="Regalis-Cervinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/cervinus.png' | relative_url }}" alt="Regalis-Cervinus" loading="lazy">
             </a>
             <figcaption>Regalis-Cervinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/arietinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/arietinus.png' | relative_url }}" alt="Regalis-Arietinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/arietinus.png' | relative_url }}" alt="Regalis-Arietinus" loading="lazy">
             </a>
             <figcaption>Regalis-Arietinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/taurinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/taurinus.png' | relative_url }}" alt="Regalis-Taurinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/taurinus.png' | relative_url }}" alt="Regalis-Taurinus" loading="lazy">
             </a>
             <figcaption>Regalis-Taurinus</figcaption>
           </figure>
@@ -256,26 +269,9 @@ title: Forgotten Armory — Varangian
           </figure>
     </div>
   </div>
-  <div class="varangian-group">
-    <h3>Animal</h3>
-    <div class="varangian-grid">
-          <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/animal/bear.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/animal/bear.png' | relative_url }}" alt="Animal-Bear" loading="lazy">
-            </a>
-            <figcaption>Animal-Bear</figcaption>
-          </figure>
-          <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/animal/wolf.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/animal/wolf.png' | relative_url }}" alt="Animal-Wolf" loading="lazy">
-            </a>
-            <figcaption>Animal-Wolf</figcaption>
-          </figure>
-    </div>
-  </div>
-</section>
+  </section>
 <section id="guard-masked-helmet" class="varangian-section" aria-labelledby="guard-masked-helmet-title">
-  <h2 id="guard-masked-helmet-title">Guard Masked Helmet decorations</h2>
+  <h2 id="guard-masked-helmet-title">Guard Masked — Head ornaments</h2>
   <p class="varangian-note">Decoration variants.</p>
   <div class="varangian-group">
     <h3>Communis</h3>
@@ -331,33 +327,45 @@ title: Forgotten Armory — Varangian
 
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/laurea.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/laurea.png' | relative_url }}" alt="Communis-Laurea — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/laurea.png' | relative_url }}" alt="Communis-Laurea" loading="lazy">
             </a>
             <figcaption>Communis-Laurea</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/corona.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/corona.png' | relative_url }}" alt="Communis-Corona — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/corona.png' | relative_url }}" alt="Communis-Corona" loading="lazy">
             </a>
             <figcaption>Communis-Corona</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/cervinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/cervinus.png' | relative_url }}" alt="Communis-Cervinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/cervinus.png' | relative_url }}" alt="Communis-Cervinus" loading="lazy">
             </a>
             <figcaption>Communis-Cervinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/arietinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/arietinus.png' | relative_url }}" alt="Communis-Arietinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/arietinus.png' | relative_url }}" alt="Communis-Arietinus" loading="lazy">
             </a>
             <figcaption>Communis-Arietinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/taurinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/taurinus.png' | relative_url }}" alt="Communis-Taurinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/taurinus.png' | relative_url }}" alt="Communis-Taurinus" loading="lazy">
             </a>
             <figcaption>Communis-Taurinus</figcaption>
+          </figure>
+    <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/animal/bear.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/animal/bear.png' | relative_url }}" alt="Animal-Bear" loading="lazy">
+            </a>
+            <figcaption>Animal-Bear</figcaption>
+          </figure>
+          <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/animal/wolf.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/animal/wolf.png' | relative_url }}" alt="Animal-Wolf" loading="lazy">
+            </a>
+            <figcaption>Animal-Wolf</figcaption>
           </figure>
     </div>
   </div>
@@ -415,31 +423,31 @@ title: Forgotten Armory — Varangian
 
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/laurea.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/laurea.png' | relative_url }}" alt="Regalis-Laurea — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/laurea.png' | relative_url }}" alt="Regalis-Laurea" loading="lazy">
             </a>
             <figcaption>Regalis-Laurea</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/corona.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/corona.png' | relative_url }}" alt="Regalis-Corona — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/corona.png' | relative_url }}" alt="Regalis-Corona" loading="lazy">
             </a>
             <figcaption>Regalis-Corona</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/cervinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/cervinus.png' | relative_url }}" alt="Regalis-Cervinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/cervinus.png' | relative_url }}" alt="Regalis-Cervinus" loading="lazy">
             </a>
             <figcaption>Regalis-Cervinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/arietinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/arietinus.png' | relative_url }}" alt="Regalis-Arietinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/arietinus.png' | relative_url }}" alt="Regalis-Arietinus" loading="lazy">
             </a>
             <figcaption>Regalis-Arietinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/taurinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/taurinus.png' | relative_url }}" alt="Regalis-Taurinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/taurinus.png' | relative_url }}" alt="Regalis-Taurinus" loading="lazy">
             </a>
             <figcaption>Regalis-Taurinus</figcaption>
           </figure>
@@ -480,26 +488,9 @@ title: Forgotten Armory — Varangian
           </figure>
     </div>
   </div>
-  <div class="varangian-group">
-    <h3>Animal</h3>
-    <div class="varangian-grid">
-          <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/animal/bear.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/animal/bear.png' | relative_url }}" alt="Animal-Bear" loading="lazy">
-            </a>
-            <figcaption>Animal-Bear</figcaption>
-          </figure>
-          <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/animal/wolf.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/animal/wolf.png' | relative_url }}" alt="Animal-Wolf" loading="lazy">
-            </a>
-            <figcaption>Animal-Wolf</figcaption>
-          </figure>
-    </div>
-  </div>
-</section>
+  </section>
 <section id="captain-helmet" class="varangian-section" aria-labelledby="captain-helmet-title">
-  <h2 id="captain-helmet-title">Captain Helmet decorations</h2>
+  <h2 id="captain-helmet-title">Captain — Head ornaments</h2>
   <p class="varangian-note">Decoration variants.</p>
   <div class="varangian-group">
     <h3>Communis</h3>
@@ -555,33 +546,45 @@ title: Forgotten Armory — Varangian
 
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/laurea.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/laurea.png' | relative_url }}" alt="Communis-Laurea — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/laurea.png' | relative_url }}" alt="Communis-Laurea" loading="lazy">
             </a>
             <figcaption>Communis-Laurea</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/corona.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/corona.png' | relative_url }}" alt="Communis-Corona — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/corona.png' | relative_url }}" alt="Communis-Corona" loading="lazy">
             </a>
             <figcaption>Communis-Corona</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/cervinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/cervinus.png' | relative_url }}" alt="Communis-Cervinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/cervinus.png' | relative_url }}" alt="Communis-Cervinus" loading="lazy">
             </a>
             <figcaption>Communis-Cervinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/arietinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/arietinus.png' | relative_url }}" alt="Communis-Arietinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/arietinus.png' | relative_url }}" alt="Communis-Arietinus" loading="lazy">
             </a>
             <figcaption>Communis-Arietinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/taurinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/taurinus.png' | relative_url }}" alt="Communis-Taurinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/taurinus.png' | relative_url }}" alt="Communis-Taurinus" loading="lazy">
             </a>
             <figcaption>Communis-Taurinus</figcaption>
+          </figure>
+    <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/animal/bear.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/animal/bear.png' | relative_url }}" alt="Animal-Bear" loading="lazy">
+            </a>
+            <figcaption>Animal-Bear</figcaption>
+          </figure>
+          <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/animal/wolf.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/animal/wolf.png' | relative_url }}" alt="Animal-Wolf" loading="lazy">
+            </a>
+            <figcaption>Animal-Wolf</figcaption>
           </figure>
     </div>
   </div>
@@ -639,31 +642,31 @@ title: Forgotten Armory — Varangian
 
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/laurea.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/laurea.png' | relative_url }}" alt="Regalis-Laurea — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/laurea.png' | relative_url }}" alt="Regalis-Laurea" loading="lazy">
             </a>
             <figcaption>Regalis-Laurea</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/corona.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/corona.png' | relative_url }}" alt="Regalis-Corona — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/corona.png' | relative_url }}" alt="Regalis-Corona" loading="lazy">
             </a>
             <figcaption>Regalis-Corona</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/cervinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/cervinus.png' | relative_url }}" alt="Regalis-Cervinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/cervinus.png' | relative_url }}" alt="Regalis-Cervinus" loading="lazy">
             </a>
             <figcaption>Regalis-Cervinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/arietinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/arietinus.png' | relative_url }}" alt="Regalis-Arietinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/arietinus.png' | relative_url }}" alt="Regalis-Arietinus" loading="lazy">
             </a>
             <figcaption>Regalis-Arietinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/taurinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/taurinus.png' | relative_url }}" alt="Regalis-Taurinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/taurinus.png' | relative_url }}" alt="Regalis-Taurinus" loading="lazy">
             </a>
             <figcaption>Regalis-Taurinus</figcaption>
           </figure>
@@ -704,26 +707,9 @@ title: Forgotten Armory — Varangian
           </figure>
     </div>
   </div>
-  <div class="varangian-group">
-    <h3>Animal</h3>
-    <div class="varangian-grid">
-          <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/animal/bear.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/animal/bear.png' | relative_url }}" alt="Animal-Bear" loading="lazy">
-            </a>
-            <figcaption>Animal-Bear</figcaption>
-          </figure>
-          <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/animal/wolf.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/animal/wolf.png' | relative_url }}" alt="Animal-Wolf" loading="lazy">
-            </a>
-            <figcaption>Animal-Wolf</figcaption>
-          </figure>
-    </div>
-  </div>
-</section>
+  </section>
 <section id="captain-masked-helmet" class="varangian-section" aria-labelledby="captain-masked-helmet-title">
-  <h2 id="captain-masked-helmet-title">Captain Masked Helmet decorations</h2>
+  <h2 id="captain-masked-helmet-title">Captain Masked — Head ornaments</h2>
   <p class="varangian-note">Decoration variants.</p>
   <div class="varangian-group">
     <h3>Communis</h3>
@@ -779,33 +765,45 @@ title: Forgotten Armory — Varangian
 
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/laurea.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/laurea.png' | relative_url }}" alt="Communis-Laurea — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/laurea.png' | relative_url }}" alt="Communis-Laurea" loading="lazy">
             </a>
             <figcaption>Communis-Laurea</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/corona.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/corona.png' | relative_url }}" alt="Communis-Corona — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/corona.png' | relative_url }}" alt="Communis-Corona" loading="lazy">
             </a>
             <figcaption>Communis-Corona</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/cervinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/cervinus.png' | relative_url }}" alt="Communis-Cervinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/cervinus.png' | relative_url }}" alt="Communis-Cervinus" loading="lazy">
             </a>
             <figcaption>Communis-Cervinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/arietinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/arietinus.png' | relative_url }}" alt="Communis-Arietinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/arietinus.png' | relative_url }}" alt="Communis-Arietinus" loading="lazy">
             </a>
             <figcaption>Communis-Arietinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/taurinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/taurinus.png' | relative_url }}" alt="Communis-Taurinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/taurinus.png' | relative_url }}" alt="Communis-Taurinus" loading="lazy">
             </a>
             <figcaption>Communis-Taurinus</figcaption>
+          </figure>
+    <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/animal/bear.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/animal/bear.png' | relative_url }}" alt="Animal-Bear" loading="lazy">
+            </a>
+            <figcaption>Animal-Bear</figcaption>
+          </figure>
+          <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/animal/wolf.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/animal/wolf.png' | relative_url }}" alt="Animal-Wolf" loading="lazy">
+            </a>
+            <figcaption>Animal-Wolf</figcaption>
           </figure>
     </div>
   </div>
@@ -863,31 +861,31 @@ title: Forgotten Armory — Varangian
 
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/laurea.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/laurea.png' | relative_url }}" alt="Regalis-Laurea — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/laurea.png' | relative_url }}" alt="Regalis-Laurea" loading="lazy">
             </a>
             <figcaption>Regalis-Laurea</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/corona.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/corona.png' | relative_url }}" alt="Regalis-Corona — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/corona.png' | relative_url }}" alt="Regalis-Corona" loading="lazy">
             </a>
             <figcaption>Regalis-Corona</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/cervinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/cervinus.png' | relative_url }}" alt="Regalis-Cervinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/cervinus.png' | relative_url }}" alt="Regalis-Cervinus" loading="lazy">
             </a>
             <figcaption>Regalis-Cervinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/arietinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/arietinus.png' | relative_url }}" alt="Regalis-Arietinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/arietinus.png' | relative_url }}" alt="Regalis-Arietinus" loading="lazy">
             </a>
             <figcaption>Regalis-Arietinus</figcaption>
           </figure>
         <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/taurinus.png' | relative_url }}">
-              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/taurinus.png' | relative_url }}" alt="Regalis-Taurinus — placeholder" loading="lazy">
+              <img width="480" height="480" src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/taurinus.png' | relative_url }}" alt="Regalis-Taurinus" loading="lazy">
             </a>
             <figcaption>Regalis-Taurinus</figcaption>
           </figure>
@@ -928,26 +926,9 @@ title: Forgotten Armory — Varangian
           </figure>
     </div>
   </div>
-  <div class="varangian-group">
-    <h3>Animal</h3>
-    <div class="varangian-grid">
-          <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/animal/bear.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/animal/bear.png' | relative_url }}" alt="Animal-Bear" loading="lazy">
-            </a>
-            <figcaption>Animal-Bear</figcaption>
-          </figure>
-          <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/animal/wolf.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/animal/wolf.png' | relative_url }}" alt="Animal-Wolf" loading="lazy">
-            </a>
-            <figcaption>Animal-Wolf</figcaption>
-          </figure>
-    </div>
-  </div>
-</section>
+  </section>
 <section id="guard-chestplate" class="varangian-section" aria-labelledby="guard-chestplate-title">
-  <h2 id="guard-chestplate-title">Guard Chestplate decorations</h2>
+  <h2 id="guard-chestplate-title">Guard — Body brackets</h2>
   <p class="varangian-note">Decoration variants.</p>
   <div class="varangian-group">
     <h3>Brackets</h3>
@@ -978,9 +959,9 @@ title: Forgotten Armory — Varangian
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-chestplate/brackets/vexilium.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-chestplate/brackets/vexilium.png' | relative_url }}" alt="Brackets-Vexilium" loading="lazy">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-chestplate/brackets/vexilium.png' | relative_url }}" alt="Brackets-Vexillum" loading="lazy">
             </a>
-            <figcaption>Brackets-Vexilium</figcaption>
+            <figcaption>Brackets-Vexillum</figcaption>
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-chestplate/brackets/balterus.png' | relative_url }}">
@@ -988,12 +969,7 @@ title: Forgotten Armory — Varangian
             </a>
             <figcaption>Brackets-Balterus</figcaption>
           </figure>
-    </div>
-  </div>
-  <div class="varangian-group">
-    <h3>Animal</h3>
-    <div class="varangian-grid">
-          <figure class="varangian-card">
+    <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-chestplate/animal/bear.png' | relative_url }}">
               <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-chestplate/animal/bear.png' | relative_url }}" alt="Animal-Bear" loading="lazy">
             </a>
@@ -1007,9 +983,9 @@ title: Forgotten Armory — Varangian
           </figure>
     </div>
   </div>
-</section>
+  </section>
 <section id="captain-chestplate" class="varangian-section" aria-labelledby="captain-chestplate-title">
-  <h2 id="captain-chestplate-title">Captain Chestplate decorations</h2>
+  <h2 id="captain-chestplate-title">Captain — Body brackets</h2>
   <p class="varangian-note">Decoration variants.</p>
   <div class="varangian-group">
     <h3>Brackets</h3>
@@ -1040,9 +1016,9 @@ title: Forgotten Armory — Varangian
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-chestplate/brackets/vexilium.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-chestplate/brackets/vexilium.png' | relative_url }}" alt="Brackets-Vexilium" loading="lazy">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-chestplate/brackets/vexilium.png' | relative_url }}" alt="Brackets-Vexillum" loading="lazy">
             </a>
-            <figcaption>Brackets-Vexilium</figcaption>
+            <figcaption>Brackets-Vexillum</figcaption>
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-chestplate/brackets/balterus.png' | relative_url }}">
@@ -1050,12 +1026,7 @@ title: Forgotten Armory — Varangian
             </a>
             <figcaption>Brackets-Balterus</figcaption>
           </figure>
-    </div>
-  </div>
-  <div class="varangian-group">
-    <h3>Animal</h3>
-    <div class="varangian-grid">
-          <figure class="varangian-card">
+    <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-chestplate/animal/bear.png' | relative_url }}">
               <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-chestplate/animal/bear.png' | relative_url }}" alt="Animal-Bear" loading="lazy">
             </a>
@@ -1069,9 +1040,9 @@ title: Forgotten Armory — Varangian
           </figure>
     </div>
   </div>
-</section>
+  </section>
 <section id="myrmidon-chestplate" class="varangian-section" aria-labelledby="myrmidon-chestplate-title">
-  <h2 id="myrmidon-chestplate-title">Myrmidon Chestplate decorations</h2>
+  <h2 id="myrmidon-chestplate-title">Myrmidon — Body brackets</h2>
   <p class="varangian-note">Decoration variants.</p>
   <div class="varangian-group">
     <h3>Brackets</h3>
@@ -1102,9 +1073,9 @@ title: Forgotten Armory — Varangian
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/myrmidon-chestplate/brackets/vexilium.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/myrmidon-chestplate/brackets/vexilium.png' | relative_url }}" alt="Brackets-Vexilium" loading="lazy">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/myrmidon-chestplate/brackets/vexilium.png' | relative_url }}" alt="Brackets-Vexillum" loading="lazy">
             </a>
-            <figcaption>Brackets-Vexilium</figcaption>
+            <figcaption>Brackets-Vexillum</figcaption>
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/myrmidon-chestplate/brackets/balterus.png' | relative_url }}">
@@ -1112,12 +1083,7 @@ title: Forgotten Armory — Varangian
             </a>
             <figcaption>Brackets-Balterus</figcaption>
           </figure>
-    </div>
-  </div>
-  <div class="varangian-group">
-    <h3>Animal</h3>
-    <div class="varangian-grid">
-          <figure class="varangian-card">
+    <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/myrmidon-chestplate/animal/bear.png' | relative_url }}">
               <img src="{{ '/vintage-story/forgotten-armory/varangian/images/myrmidon-chestplate/animal/bear.png' | relative_url }}" alt="Animal-Bear" loading="lazy">
             </a>
@@ -1131,9 +1097,9 @@ title: Forgotten Armory — Varangian
           </figure>
     </div>
   </div>
-</section>
+  </section>
 <section id="veteran-chestplate" class="varangian-section" aria-labelledby="veteran-chestplate-title">
-  <h2 id="veteran-chestplate-title">Veteran Chestplate decorations</h2>
+  <h2 id="veteran-chestplate-title">Veteran — Body brackets</h2>
   <p class="varangian-note">Decoration variants.</p>
   <div class="varangian-group">
     <h3>Brackets</h3>
@@ -1164,9 +1130,9 @@ title: Forgotten Armory — Varangian
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/veteran-chestplate/brackets/vexilium.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/veteran-chestplate/brackets/vexilium.png' | relative_url }}" alt="Brackets-Vexilium" loading="lazy">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/veteran-chestplate/brackets/vexilium.png' | relative_url }}" alt="Brackets-Vexillum" loading="lazy">
             </a>
-            <figcaption>Brackets-Vexilium</figcaption>
+            <figcaption>Brackets-Vexillum</figcaption>
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/veteran-chestplate/brackets/balterus.png' | relative_url }}">
@@ -1174,12 +1140,7 @@ title: Forgotten Armory — Varangian
             </a>
             <figcaption>Brackets-Balterus</figcaption>
           </figure>
-    </div>
-  </div>
-  <div class="varangian-group">
-    <h3>Animal</h3>
-    <div class="varangian-grid">
-          <figure class="varangian-card">
+    <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/veteran-chestplate/animal/bear.png' | relative_url }}">
               <img src="{{ '/vintage-story/forgotten-armory/varangian/images/veteran-chestplate/animal/bear.png' | relative_url }}" alt="Animal-Bear" loading="lazy">
             </a>
@@ -1193,12 +1154,12 @@ title: Forgotten Armory — Varangian
           </figure>
     </div>
   </div>
-</section>
+  </section>
 <section id="guard-legplate" class="varangian-section" aria-labelledby="guard-legplate-title">
-  <h2 id="guard-legplate-title">Guard Legplate decorations</h2>
+  <h2 id="guard-legplate-title">Guard — Legs fasteners</h2>
   <p class="varangian-note">Decoration variants.</p>
   <div class="varangian-group">
-    <h3>Decorations</h3>
+    <h3>Fasteners</h3>
     <div class="varangian-grid">
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-legplate/lacinia.png' | relative_url }}">
@@ -1218,12 +1179,7 @@ title: Forgotten Armory — Varangian
             </a>
             <figcaption>Falda</figcaption>
           </figure>
-    </div>
-  </div>
-  <div class="varangian-group">
-    <h3>Animal</h3>
-    <div class="varangian-grid">
-          <figure class="varangian-card">
+    <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-legplate/animal/bear.png' | relative_url }}">
               <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-legplate/animal/bear.png' | relative_url }}" alt="Animal-Bear" loading="lazy">
             </a>
@@ -1237,12 +1193,12 @@ title: Forgotten Armory — Varangian
           </figure>
     </div>
   </div>
-</section>
+  </section>
 <section id="captain-legplate" class="varangian-section" aria-labelledby="captain-legplate-title">
-  <h2 id="captain-legplate-title">Captain Legplate decorations</h2>
+  <h2 id="captain-legplate-title">Captain — Legs fasteners</h2>
   <p class="varangian-note">Decoration variants.</p>
   <div class="varangian-group">
-    <h3>Decorations</h3>
+    <h3>Fasteners</h3>
     <div class="varangian-grid">
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-legplate/lacinia.png' | relative_url }}">
@@ -1262,12 +1218,7 @@ title: Forgotten Armory — Varangian
             </a>
             <figcaption>Falda</figcaption>
           </figure>
-    </div>
-  </div>
-  <div class="varangian-group">
-    <h3>Animal</h3>
-    <div class="varangian-grid">
-          <figure class="varangian-card">
+    <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-legplate/animal/bear.png' | relative_url }}">
               <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-legplate/animal/bear.png' | relative_url }}" alt="Animal-Bear" loading="lazy">
             </a>
@@ -1281,124 +1232,81 @@ title: Forgotten Armory — Varangian
           </figure>
     </div>
   </div>
-</section>
+  </section>
 
-<section id="poses" class="varangian-section varangian-pose-category" aria-labelledby="poses-title">
-  <h2 id="poses-title">Material poses</h2>
-  <p class="varangian-note">Guard and Captain sets in iron, meteoric iron and steel.</p>
-  <section class="varangian-pose-row">
-    <h3>Guard poses</h3>
-    <div class="varangian-pose-metals">
-      <section class="varangian-pose-metal">
-        <h4>Iron</h4>
-        <div class="varangian-pose-pair">
-          <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/iron/guardironpose1.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/iron/guardironpose1.png' | relative_url }}" alt="Guard Iron — Pose 1" loading="lazy">
+<section id="poses" class="varangian-section fa-poses" aria-labelledby="poses-title"><h2 id="poses-title">Poses</h2><section class="fa-pose-set" id="guard-poses"><h3 id="guard-poses-title">Guard set</h3><div class="fa-pose-grid"><figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/iron/guardironpose1.png' | relative_url }}" aria-label="Open Guard — Iron — Pose 1">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/iron/guardironpose1.png' | relative_url }}" alt="Guard — Iron — Pose 1" loading="lazy" width="480" height="640">
             </a>
-            <figcaption>Guard Iron — Pose 1</figcaption>
+            <figcaption>Guard — Iron — Pose 1</figcaption>
           </figure>
           <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/iron/guardironpose2.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/iron/guardironpose2.png' | relative_url }}" alt="Guard Iron — Pose 2" loading="lazy">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/iron/guardironpose2.png' | relative_url }}" aria-label="Open Guard — Iron — Pose 2">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/iron/guardironpose2.png' | relative_url }}" alt="Guard — Iron — Pose 2" loading="lazy" width="480" height="640">
             </a>
-            <figcaption>Guard Iron — Pose 2</figcaption>
+            <figcaption>Guard — Iron — Pose 2</figcaption>
           </figure>
-        </div>
-      </section>
-      <section class="varangian-pose-metal">
-        <h4>Meteoric iron</h4>
-        <div class="varangian-pose-pair">
-          <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/meteoric-iron/guardmeteoricironpose1.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/meteoric-iron/guardmeteoricironpose1.png' | relative_url }}" alt="Guard Meteoric iron — Pose 1" loading="lazy">
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/meteoric-iron/guardmeteoricironpose1.png' | relative_url }}" aria-label="Open Guard — Meteoric Iron — Pose 1">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/meteoric-iron/guardmeteoricironpose1.png' | relative_url }}" alt="Guard — Meteoric Iron — Pose 1" loading="lazy" width="480" height="640">
             </a>
-            <figcaption>Guard Meteoric iron — Pose 1</figcaption>
+            <figcaption>Guard — Meteoric Iron — Pose 1</figcaption>
           </figure>
           <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/meteoric-iron/guardmeteoricironpose2.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/meteoric-iron/guardmeteoricironpose2.png' | relative_url }}" alt="Guard Meteoric iron — Pose 2" loading="lazy">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/meteoric-iron/guardmeteoricironpose2.png' | relative_url }}" aria-label="Open Guard — Meteoric Iron — Pose 2">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/meteoric-iron/guardmeteoricironpose2.png' | relative_url }}" alt="Guard — Meteoric Iron — Pose 2" loading="lazy" width="480" height="640">
             </a>
-            <figcaption>Guard Meteoric iron — Pose 2</figcaption>
+            <figcaption>Guard — Meteoric Iron — Pose 2</figcaption>
           </figure>
-        </div>
-      </section>
-      <section class="varangian-pose-metal">
-        <h4>Steel</h4>
-        <div class="varangian-pose-pair">
-          <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/steel/guardsteelpose1.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/steel/guardsteelpose1.png' | relative_url }}" alt="Guard Steel — Pose 1" loading="lazy">
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/steel/guardsteelpose1.png' | relative_url }}" aria-label="Open Guard — Steel — Pose 1">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/steel/guardsteelpose1.png' | relative_url }}" alt="Guard — Steel — Pose 1" loading="lazy" width="480" height="640">
             </a>
-            <figcaption>Guard Steel — Pose 1</figcaption>
+            <figcaption>Guard — Steel — Pose 1</figcaption>
           </figure>
           <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/steel/guardsteelpose2.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/steel/guardsteelpose2.png' | relative_url }}" alt="Guard Steel — Pose 2" loading="lazy">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/steel/guardsteelpose2.png' | relative_url }}" aria-label="Open Guard — Steel — Pose 2">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/guard/steel/guardsteelpose2.png' | relative_url }}" alt="Guard — Steel — Pose 2" loading="lazy" width="480" height="640">
             </a>
-            <figcaption>Guard Steel — Pose 2</figcaption>
+            <figcaption>Guard — Steel — Pose 2</figcaption>
           </figure>
-        </div>
-      </section>
-    </div>
-  </section>
-  <section class="varangian-pose-row">
-    <h3>Captain poses</h3>
-    <div class="varangian-pose-metals">
-      <section class="varangian-pose-metal">
-        <h4>Iron</h4>
-        <div class="varangian-pose-pair">
-          <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/iron/captainironpose1.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/iron/captainironpose1.png' | relative_url }}" alt="Captain Iron — Pose 1" loading="lazy">
+        </div></section><section class="fa-pose-set" id="captain-poses"><h3 id="captain-poses-title">Captain set</h3><div class="fa-pose-grid"><figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/iron/captainironpose1.png' | relative_url }}" aria-label="Open Captain — Iron — Pose 1">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/iron/captainironpose1.png' | relative_url }}" alt="Captain — Iron — Pose 1" loading="lazy" width="480" height="640">
             </a>
-            <figcaption>Captain Iron — Pose 1</figcaption>
+            <figcaption>Captain — Iron — Pose 1</figcaption>
           </figure>
           <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/iron/captainironpose2.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/iron/captainironpose2.png' | relative_url }}" alt="Captain Iron — Pose 2" loading="lazy">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/iron/captainironpose2.png' | relative_url }}" aria-label="Open Captain — Iron — Pose 2">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/iron/captainironpose2.png' | relative_url }}" alt="Captain — Iron — Pose 2" loading="lazy" width="480" height="640">
             </a>
-            <figcaption>Captain Iron — Pose 2</figcaption>
+            <figcaption>Captain — Iron — Pose 2</figcaption>
           </figure>
-        </div>
-      </section>
-      <section class="varangian-pose-metal">
-        <h4>Meteoric iron</h4>
-        <div class="varangian-pose-pair">
-          <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/meteoric-iron/captainmeteoricironpose1.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/meteoric-iron/captainmeteoricironpose1.png' | relative_url }}" alt="Captain Meteoric iron — Pose 1" loading="lazy">
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/meteoric-iron/captainmeteoricironpose1.png' | relative_url }}" aria-label="Open Captain — Meteoric Iron — Pose 1">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/meteoric-iron/captainmeteoricironpose1.png' | relative_url }}" alt="Captain — Meteoric Iron — Pose 1" loading="lazy" width="480" height="640">
             </a>
-            <figcaption>Captain Meteoric iron — Pose 1</figcaption>
+            <figcaption>Captain — Meteoric Iron — Pose 1</figcaption>
           </figure>
           <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/meteoric-iron/captainmeteoricironpose2.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/meteoric-iron/captainmeteoricironpose2.png' | relative_url }}" alt="Captain Meteoric iron — Pose 2" loading="lazy">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/meteoric-iron/captainmeteoricironpose2.png' | relative_url }}" aria-label="Open Captain — Meteoric Iron — Pose 2">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/meteoric-iron/captainmeteoricironpose2.png' | relative_url }}" alt="Captain — Meteoric Iron — Pose 2" loading="lazy" width="480" height="640">
             </a>
-            <figcaption>Captain Meteoric iron — Pose 2</figcaption>
+            <figcaption>Captain — Meteoric Iron — Pose 2</figcaption>
           </figure>
-        </div>
-      </section>
-      <section class="varangian-pose-metal">
-        <h4>Steel</h4>
-        <div class="varangian-pose-pair">
-          <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/steel/captainsteelpose1.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/steel/captainsteelpose1.png' | relative_url }}" alt="Captain Steel — Pose 1" loading="lazy">
+        <figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/steel/captainsteelpose1.png' | relative_url }}" aria-label="Open Captain — Steel — Pose 1">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/steel/captainsteelpose1.png' | relative_url }}" alt="Captain — Steel — Pose 1" loading="lazy" width="480" height="640">
             </a>
-            <figcaption>Captain Steel — Pose 1</figcaption>
+            <figcaption>Captain — Steel — Pose 1</figcaption>
           </figure>
           <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/steel/captainsteelpose2.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/steel/captainsteelpose2.png' | relative_url }}" alt="Captain Steel — Pose 2" loading="lazy">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/steel/captainsteelpose2.png' | relative_url }}" aria-label="Open Captain — Steel — Pose 2">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/poses/captain/steel/captainsteelpose2.png' | relative_url }}" alt="Captain — Steel — Pose 2" loading="lazy" width="480" height="640">
             </a>
-            <figcaption>Captain Steel — Pose 2</figcaption>
+            <figcaption>Captain — Steel — Pose 2</figcaption>
           </figure>
-        </div>
-      </section>
-    </div>
-  </section>
-</section>
+        </div></section></section>
 </div>
 
 <div class="below varangian-footer-links">

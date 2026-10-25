@@ -7,7 +7,23 @@ title: Forgotten Armory — Jousting
 <style>
 .jousting-gallery { --gallery-accent: #bd933a; }
 .jousting-gallery .greenwich-hero h1, .jousting-gallery .greenwich-section h2 { color:#bd933a; }
-.jousting-gallery .greenwich-navigation a {border-color:#bd933a;}
+.jousting-gallery .greenwich-navigation a, .jousting-gallery a.button {
+  color: #2d221a;
+  background: #d4af37;
+  border-color: #f1d77a;
+}
+.jousting-gallery .greenwich-navigation a:hover, .jousting-gallery a.button:hover {
+  color: #2d221a;
+  background: #e6c354;
+}
+.jousting-gallery .greenwich-navigation a:active, .jousting-gallery a.button:active {
+  color: #2d221a;
+  background: #c49b28;
+}
+.jousting-gallery .greenwich-navigation a:focus-visible, .jousting-gallery a.button:focus-visible {
+  outline: 3px solid #f1d77a;
+  outline-offset: 3px;
+}
 </style>
 <div class="breadcrumb"><a href="{{ '/vintage-story/forgotten-armory/' | relative_url }}">← Back to the armory</a></div>
 <div class="greenwich-gallery jousting-gallery">

@@ -7,7 +7,23 @@ title: Forgotten Armory — Templar
 <style>
 .templar-gallery { --gallery-accent: #a4222c; }
 .templar-gallery .greenwich-hero h1, .templar-gallery .greenwich-section h2 { color:#a4222c; }
-.templar-gallery .greenwich-navigation a {border-color:#a4222c;}
+.templar-gallery .greenwich-navigation a, .templar-gallery a.button {
+  color: #a10f32;
+  background: #ffffff;
+  border-color: #d4bfc5;
+}
+.templar-gallery .greenwich-navigation a:hover, .templar-gallery a.button:hover {
+  color: #a10f32;
+  background: #f5e8ec;
+}
+.templar-gallery .greenwich-navigation a:active, .templar-gallery a.button:active {
+  color: #a10f32;
+  background: #ead6dd;
+}
+.templar-gallery .greenwich-navigation a:focus-visible, .templar-gallery a.button:focus-visible {
+  outline: 3px solid #d4bfc5;
+  outline-offset: 3px;
+}
 </style>
 <div class="breadcrumb"><a href="{{ '/vintage-story/forgotten-armory/' | relative_url }}">← Back to the armory</a></div>
 <div class="greenwich-gallery templar-gallery">

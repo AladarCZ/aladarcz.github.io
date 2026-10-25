@@ -7,7 +7,23 @@ title: Forgotten Armory — Landsknecht
 <style>
 .landsknecht-gallery { --gallery-accent: #1b4770; }
 .landsknecht-gallery .greenwich-hero h1, .landsknecht-gallery .greenwich-section h2 { color:#1b4770; }
-.landsknecht-gallery .greenwich-navigation a {border-color:#1b4770;}
+.landsknecht-gallery .greenwich-navigation a, .landsknecht-gallery a.button {
+  color: #ffe066;
+  background: #142c50;
+  border-color: #6686ad;
+}
+.landsknecht-gallery .greenwich-navigation a:hover, .landsknecht-gallery a.button:hover {
+  color: #ffe066;
+  background: #203e67;
+}
+.landsknecht-gallery .greenwich-navigation a:active, .landsknecht-gallery a.button:active {
+  color: #ffe066;
+  background: #102440;
+}
+.landsknecht-gallery .greenwich-navigation a:focus-visible, .landsknecht-gallery a.button:focus-visible {
+  outline: 3px solid #6686ad;
+  outline-offset: 3px;
+}
 </style>
 <div class="breadcrumb"><a href="{{ '/vintage-story/forgotten-armory/' | relative_url }}">← Back to the armory</a></div>
 <div class="greenwich-gallery landsknecht-gallery">

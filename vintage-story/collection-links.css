@@ -1,62 +1,13 @@
-/* Collection colours shared by the Vintage Story and Forgotten Armory directories. */
-.collection-shortcuts {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  margin: 20px 0 28px;
-}
-.collection-shortcuts .collection-button {
-  display: inline-block;
-  padding: 12px 18px;
-  text-decoration: none;
-}
-.panel a.collection-button.gothic-button,
-.collection-shortcuts a.collection-button.gothic-button {
-  color: #fff1d8;
-  background: #732b30;
-  border-color: #bc7475;
-}
-.panel a.collection-button.gothic-button:hover,
-.collection-shortcuts a.collection-button.gothic-button:hover {
-  color: #fff8e8;
-  background: #913b40;
-}
-.panel a.collection-button.chinese-dynasties-button,
-.collection-shortcuts a.collection-button.chinese-dynasties-button {
-  color: #fff1d8;
-  background: #56316b;
-  border-color: #a683ba;
-}
-.panel a.collection-button.chinese-dynasties-button:hover,
-.collection-shortcuts a.collection-button.chinese-dynasties-button:hover {
-  color: #fff8e8;
-  background: #70438a;
-}
-a.collection-button:focus-visible {
-  outline: 3px solid #e8cc84;
-  outline-offset: 4px;
-}
+a {}
 
-.panel a.collection-button.varangian-button,
-.collection-shortcuts a.collection-button.varangian-button {
-  color: #fff1d8;
-  background: #9a5f2f;
-  border-color: #d6ad68;
-}
-.panel a.collection-button.varangian-button:hover,
-.collection-shortcuts a.collection-button.varangian-button:hover {
-  color: #fff8e8;
-  background: #c07836;
-}
+/* Jousting */
+.panel a.collection-button.jousting-button, .collection-shortcuts a.collection-button.jousting-button { color:#fff5cc; background:#b6892d; border-color:#ddbd62; }
+.panel a.collection-button.jousting-button:hover, .collection-shortcuts a.collection-button.jousting-button:hover { color:#fff5cc; background:#d6a640; }
 
-/* Viking: matches its collection page. */
-.panel a.collection-button.viking-button,
-.collection-shortcuts a.collection-button.viking-button { color:#fff1d8; background:#365a66; border-color:#95b1b9; }
-.panel a.collection-button.viking-button:hover,
-.collection-shortcuts a.collection-button.viking-button:hover { background:#477383; }
+/* Landsknecht */
+.panel a.collection-button.landsknecht-button, .collection-shortcuts a.collection-button.landsknecht-button { color:#ffe568; background:#133d65; border-color:#648eaf; }
+.panel a.collection-button.landsknecht-button:hover, .collection-shortcuts a.collection-button.landsknecht-button:hover { color:#ffe568; background:#205682; }
 
-/* Hussar: matches its collection page. */
-.panel a.collection-button.hussar-button,
-.collection-shortcuts a.collection-button.hussar-button { color:#fff1d8; background:#67434f; border-color:#c49b89; }
-.panel a.collection-button.hussar-button:hover,
-.collection-shortcuts a.collection-button.hussar-button:hover { background:#845767; }
+/* Templar */
+.panel a.collection-button.templar-button, .collection-shortcuts a.collection-button.templar-button { color:#a4222c; background:#f7f5f0; border-color:#b5a9a4; }
+.panel a.collection-button.templar-button:hover, .collection-shortcuts a.collection-button.templar-button:hover { color:#a4222c; background:#e8e2db; }

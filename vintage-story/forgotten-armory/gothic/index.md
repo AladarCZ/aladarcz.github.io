@@ -80,10 +80,10 @@ title: Forgotten Armory — Gothic
           <figcaption>Communis-Transversa</figcaption>
         </figure>
         <figure class="gothic-card">
-          <a class="gothic-image" href="images/sallet/communis/vexillum.png" aria-label="Open Communis-vexillum image">
-            <img src="images/sallet/communis/vexillum.png" width="480" height="480" loading="lazy" alt="Communis-vexillum">
+          <a class="gothic-image" href="images/sallet/communis/statua.png" aria-label="Open Communis-statua image">
+            <img src="images/sallet/communis/statua.png" width="480" height="480" loading="lazy" alt="Communis-statua">
           </a>
-          <figcaption>Communis-Vexillum</figcaption>
+          <figcaption>Communis-Statua</figcaption>
         </figure>
 <figure class="gothic-card">
   <a class="gothic-image" href="images/sallet/communis/cauda.png" aria-label="Open Communis-Cauda image">
@@ -176,10 +176,10 @@ title: Forgotten Armory — Gothic
           <figcaption>Regalis-Sertum</figcaption>
         </figure>
         <figure class="gothic-card">
-          <a class="gothic-image" href="images/sallet/regalis/vexillum.png" aria-label="Open Regalis-vexillum image">
-            <img src="images/sallet/regalis/vexillum.png" width="480" height="480" loading="lazy" alt="Regalis-vexillum">
+          <a class="gothic-image" href="images/sallet/regalis/statua.png" aria-label="Open Regalis-statua image">
+            <img src="images/sallet/regalis/statua.png" width="480" height="480" loading="lazy" alt="Regalis-statua">
           </a>
-          <figcaption>Regalis-Vexillum</figcaption>
+          <figcaption>Regalis-Statua</figcaption>
         </figure>
 <figure class="gothic-card">
   <a class="gothic-image" href="images/sallet/regalis/cauda.png" aria-label="Open Regalis-Cauda image">
@@ -253,7 +253,14 @@ title: Forgotten Armory — Gothic
           </a>
           <figcaption>Metallicus-Taurinus</figcaption>
         </figure>
-      </div>
+      
+<figure class="gothic-card">
+          <a class="gothic-image" href="images/sallet/metallicus/statua.png" aria-label="Open Metallicus-Statua image">
+            <img src="images/sallet/metallicus/statua.png" width="480" height="480" loading="lazy" alt="Metallicus-Statua">
+          </a>
+          <figcaption>Metallicus-Statua</figcaption>
+        </figure>
+</div>
     </section>
     <!-- Animal variants follow all other decorations for this armour part. -->
     </section>

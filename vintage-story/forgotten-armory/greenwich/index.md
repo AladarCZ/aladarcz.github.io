@@ -80,10 +80,10 @@ title: Forgotten Armory — Greenwich
           <figcaption>Communis-Transversa</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/communis/vexillum.png" aria-label="Open Communis-vexillum image">
-            <img src="images/armet/communis/vexillum.png" width="480" height="480" loading="lazy" alt="Communis-vexillum">
+          <a class="greenwich-image" href="images/armet/communis/statua.png" aria-label="Open Communis-statua image">
+            <img src="images/armet/communis/statua.png" width="480" height="480" loading="lazy" alt="Communis-statua">
           </a>
-          <figcaption>Communis-Vexillum</figcaption>
+          <figcaption>Communis-Statua</figcaption>
         </figure>
 
         <figure class="greenwich-card">
@@ -170,10 +170,10 @@ title: Forgotten Armory — Greenwich
           <figcaption>Regalis-Sertum</figcaption>
         </figure>
         <figure class="greenwich-card">
-          <a class="greenwich-image" href="images/armet/regalis/vexillum.png" aria-label="Open Regalis-vexillum image">
-            <img src="images/armet/regalis/vexillum.png" width="480" height="480" loading="lazy" alt="Regalis-vexillum">
+          <a class="greenwich-image" href="images/armet/regalis/statua.png" aria-label="Open Regalis-statua image">
+            <img src="images/armet/regalis/statua.png" width="480" height="480" loading="lazy" alt="Regalis-statua">
           </a>
-          <figcaption>Regalis-Vexillum</figcaption>
+          <figcaption>Regalis-Statua</figcaption>
         </figure>
 
         <figure class="greenwich-card">
@@ -241,7 +241,14 @@ title: Forgotten Armory — Greenwich
           </a>
           <figcaption>Metallicus-Taurinus</figcaption>
         </figure>
-      </div>
+      
+<figure class="greenwich-card">
+          <a class="greenwich-image" href="images/armet/metallicus/statua.png" aria-label="Open Metallicus-Statua image">
+            <img src="images/armet/metallicus/statua.png" width="480" height="480" loading="lazy" alt="Metallicus-Statua">
+          </a>
+          <figcaption>Metallicus-Statua</figcaption>
+        </figure>
+</div>
     </section>
     <!-- Animal variants follow all other decorations for this armour part. -->
     </section>

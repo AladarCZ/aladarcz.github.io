@@ -64,10 +64,10 @@ title: Forgotten Armory — Viking
             <figcaption>Communis-Transversa</figcaption>
           </figure>
           <figure class="viking-card">
-            <a href="images/bjarnholdr-helmet/communis/vexillum.png">
-              <img src="images/bjarnholdr-helmet/communis/vexillum.png" alt="Bjarnholdr — Head — Communis-Vexillum" loading="lazy">
+            <a href="images/bjarnholdr-helmet/communis/statua.png">
+              <img src="images/bjarnholdr-helmet/communis/statua.png" alt="Bjarnholdr — Head — Communis-Statua" loading="lazy">
             </a>
-            <figcaption>Communis-Vexillum</figcaption>
+            <figcaption>Communis-Statua</figcaption>
           </figure>
           <figure class="viking-card">
             <a href="images/bjarnholdr-helmet/communis/cauda.png">
@@ -160,10 +160,10 @@ title: Forgotten Armory — Viking
             <figcaption>Regalis-Sertum</figcaption>
           </figure>
           <figure class="viking-card">
-            <a href="images/bjarnholdr-helmet/regalis/vexillum.png">
-              <img src="images/bjarnholdr-helmet/regalis/vexillum.png" alt="Bjarnholdr — Head — Regalis-Vexillum" loading="lazy">
+            <a href="images/bjarnholdr-helmet/regalis/statua.png">
+              <img src="images/bjarnholdr-helmet/regalis/statua.png" alt="Bjarnholdr — Head — Regalis-Statua" loading="lazy">
             </a>
-            <figcaption>Regalis-Vexillum</figcaption>
+            <figcaption>Regalis-Statua</figcaption>
           </figure>
           <figure class="viking-card">
             <a href="images/bjarnholdr-helmet/regalis/cauda.png">
@@ -237,7 +237,14 @@ title: Forgotten Armory — Viking
             </a>
             <figcaption>Metallicus-Taurinus</figcaption>
           </figure>
-    </div>
+    
+<figure class="viking-card">
+            <a href="images/bjarnholdr-helmet/metallicus/statua.png">
+              <img src="images/bjarnholdr-helmet/metallicus/statua.png" alt="Bjarnholdr — Head — Metallicus-Statua" loading="lazy">
+            </a>
+            <figcaption>Metallicus-Statua</figcaption>
+          </figure>
+</div>
   </div>
   </section>
 <section id="bjarnholdr-chestplate" class="viking-section" aria-labelledby="bjarnholdr-chestplate-title">
@@ -380,10 +387,10 @@ title: Forgotten Armory — Viking
             <figcaption>Communis-Transversa</figcaption>
           </figure>
           <figure class="viking-card">
-            <a href="images/ragnjorn-helmet/communis/vexillum.png">
-              <img src="images/ragnjorn-helmet/communis/vexillum.png" alt="Ragnjorn — Head — Communis-Vexillum" loading="lazy">
+            <a href="images/ragnjorn-helmet/communis/statua.png">
+              <img src="images/ragnjorn-helmet/communis/statua.png" alt="Ragnjorn — Head — Communis-Statua" loading="lazy">
             </a>
-            <figcaption>Communis-Vexillum</figcaption>
+            <figcaption>Communis-Statua</figcaption>
           </figure>
           <figure class="viking-card">
             <a href="images/ragnjorn-helmet/communis/cauda.png">
@@ -476,10 +483,10 @@ title: Forgotten Armory — Viking
             <figcaption>Regalis-Sertum</figcaption>
           </figure>
           <figure class="viking-card">
-            <a href="images/ragnjorn-helmet/regalis/vexillum.png">
-              <img src="images/ragnjorn-helmet/regalis/vexillum.png" alt="Ragnjorn — Head — Regalis-Vexillum" loading="lazy">
+            <a href="images/ragnjorn-helmet/regalis/statua.png">
+              <img src="images/ragnjorn-helmet/regalis/statua.png" alt="Ragnjorn — Head — Regalis-Statua" loading="lazy">
             </a>
-            <figcaption>Regalis-Vexillum</figcaption>
+            <figcaption>Regalis-Statua</figcaption>
           </figure>
           <figure class="viking-card">
             <a href="images/ragnjorn-helmet/regalis/cauda.png">
@@ -553,7 +560,14 @@ title: Forgotten Armory — Viking
             </a>
             <figcaption>Metallicus-Taurinus</figcaption>
           </figure>
-    </div>
+    
+<figure class="viking-card">
+            <a href="images/ragnjorn-helmet/metallicus/statua.png">
+              <img src="images/ragnjorn-helmet/metallicus/statua.png" alt="Ragnjorn — Head — Metallicus-Statua" loading="lazy">
+            </a>
+            <figcaption>Metallicus-Statua</figcaption>
+          </figure>
+</div>
   </div>
   </section>
 <section id="ragnjorn-chestplate" class="viking-section" aria-labelledby="ragnjorn-chestplate-title">

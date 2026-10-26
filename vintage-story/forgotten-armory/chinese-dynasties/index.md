@@ -50,8 +50,8 @@ title: Forgotten Armory — Chinese Dynasties
   <figcaption>Communis-Transversa</figcaption>
 </figure>
 <figure class="dynasties-card">
-  <a class="dynasties-image" href="images/song-helmet/communis/vexillum.png" aria-label="Open Vexillum image"><img src="images/song-helmet/communis/vexillum.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — Head — Communis-Vexillum"></a>
-  <figcaption>Communis-Vexillum</figcaption>
+  <a class="dynasties-image" href="images/song-helmet/communis/statua.png" aria-label="Open Statua image"><img src="images/song-helmet/communis/statua.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — Head — Communis-Statua"></a>
+  <figcaption>Communis-Statua</figcaption>
 </figure>
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/song-helmet/communis/cauda.png" aria-label="Open Communis-Cauda image">
@@ -117,8 +117,8 @@ title: Forgotten Armory — Chinese Dynasties
   <figcaption>Regalis-Sertum</figcaption>
 </figure>
 <figure class="dynasties-card">
-  <a class="dynasties-image" href="images/song-helmet/regalis/vexillum.png" aria-label="Open Vexillum image"><img src="images/song-helmet/regalis/vexillum.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — Head — Regalis-Vexillum"></a>
-  <figcaption>Regalis-Vexillum</figcaption>
+  <a class="dynasties-image" href="images/song-helmet/regalis/statua.png" aria-label="Open Statua image"><img src="images/song-helmet/regalis/statua.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — Head — Regalis-Statua"></a>
+  <figcaption>Regalis-Statua</figcaption>
 </figure>
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/song-helmet/regalis/cauda.png" aria-label="Open Regalis-Cauda image">
@@ -171,6 +171,11 @@ title: Forgotten Armory — Chinese Dynasties
   <a class="dynasties-image" href="images/song-helmet/metallicus/taurinus.png" aria-label="Open Taurinus image"><img src="images/song-helmet/metallicus/taurinus.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — Head — Metallicus-Taurinus"></a>
   <figcaption>Metallicus-Taurinus</figcaption>
 </figure>
+
+<figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-helmet/metallicus/statua.png" aria-label="Open Statua image"><img src="images/song-helmet/metallicus/statua.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — Head — Metallicus-Statua"></a>
+  <figcaption>Metallicus-Statua</figcaption>
+</figure>
 </div>
 </section>
 </section>
@@ -203,8 +208,8 @@ title: Forgotten Armory — Chinese Dynasties
   <figcaption>Communis-Transversa</figcaption>
 </figure>
 <figure class="dynasties-card">
-  <a class="dynasties-image" href="images/song-masked-helmet/communis/vexillum.png" aria-label="Open Vexillum image"><img src="images/song-masked-helmet/communis/vexillum.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked Head — Communis-Vexillum"></a>
-  <figcaption>Communis-Vexillum</figcaption>
+  <a class="dynasties-image" href="images/song-masked-helmet/communis/statua.png" aria-label="Open Statua image"><img src="images/song-masked-helmet/communis/statua.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked Head — Communis-Statua"></a>
+  <figcaption>Communis-Statua</figcaption>
 </figure>
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/song-masked-helmet/communis/cauda.png" aria-label="Open Communis-Cauda image">
@@ -270,8 +275,8 @@ title: Forgotten Armory — Chinese Dynasties
   <figcaption>Regalis-Sertum</figcaption>
 </figure>
 <figure class="dynasties-card">
-  <a class="dynasties-image" href="images/song-masked-helmet/regalis/vexillum.png" aria-label="Open Vexillum image"><img src="images/song-masked-helmet/regalis/vexillum.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked Head — Regalis-Vexillum"></a>
-  <figcaption>Regalis-Vexillum</figcaption>
+  <a class="dynasties-image" href="images/song-masked-helmet/regalis/statua.png" aria-label="Open Statua image"><img src="images/song-masked-helmet/regalis/statua.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked Head — Regalis-Statua"></a>
+  <figcaption>Regalis-Statua</figcaption>
 </figure>
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/song-masked-helmet/regalis/cauda.png" aria-label="Open Regalis-Cauda image">
@@ -324,6 +329,11 @@ title: Forgotten Armory — Chinese Dynasties
   <a class="dynasties-image" href="images/song-masked-helmet/metallicus/taurinus.png" aria-label="Open Taurinus image"><img src="images/song-masked-helmet/metallicus/taurinus.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked Head — Metallicus-Taurinus"></a>
   <figcaption>Metallicus-Taurinus</figcaption>
 </figure>
+
+<figure class="dynasties-card">
+  <a class="dynasties-image" href="images/song-masked-helmet/metallicus/statua.png" aria-label="Open Statua image"><img src="images/song-masked-helmet/metallicus/statua.png" width="480" height="480" loading="lazy" alt="Shānwén (Song) — masked Head — Metallicus-Statua"></a>
+  <figcaption>Metallicus-Statua</figcaption>
+</figure>
 </div>
 </section>
 </section>
@@ -356,8 +366,8 @@ title: Forgotten Armory — Chinese Dynasties
   <figcaption>Communis-Transversa</figcaption>
 </figure>
 <figure class="dynasties-card">
-  <a class="dynasties-image" href="images/jin-helmet/communis/vexillum.png" aria-label="Open Vexillum image"><img src="images/jin-helmet/communis/vexillum.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — Head — Communis-Vexillum"></a>
-  <figcaption>Communis-Vexillum</figcaption>
+  <a class="dynasties-image" href="images/jin-helmet/communis/statua.png" aria-label="Open Statua image"><img src="images/jin-helmet/communis/statua.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — Head — Communis-Statua"></a>
+  <figcaption>Communis-Statua</figcaption>
 </figure>
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/jin-helmet/communis/cauda.png" aria-label="Open Communis-Cauda image">
@@ -423,8 +433,8 @@ title: Forgotten Armory — Chinese Dynasties
   <figcaption>Regalis-Sertum</figcaption>
 </figure>
 <figure class="dynasties-card">
-  <a class="dynasties-image" href="images/jin-helmet/regalis/vexillum.png" aria-label="Open Vexillum image"><img src="images/jin-helmet/regalis/vexillum.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — Head — Regalis-Vexillum"></a>
-  <figcaption>Regalis-Vexillum</figcaption>
+  <a class="dynasties-image" href="images/jin-helmet/regalis/statua.png" aria-label="Open Statua image"><img src="images/jin-helmet/regalis/statua.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — Head — Regalis-Statua"></a>
+  <figcaption>Regalis-Statua</figcaption>
 </figure>
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/jin-helmet/regalis/cauda.png" aria-label="Open Regalis-Cauda image">
@@ -477,6 +487,11 @@ title: Forgotten Armory — Chinese Dynasties
   <a class="dynasties-image" href="images/jin-helmet/metallicus/taurinus.png" aria-label="Open Taurinus image"><img src="images/jin-helmet/metallicus/taurinus.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — Head — Metallicus-Taurinus"></a>
   <figcaption>Metallicus-Taurinus</figcaption>
 </figure>
+
+<figure class="dynasties-card">
+  <a class="dynasties-image" href="images/jin-helmet/metallicus/statua.png" aria-label="Open Statua image"><img src="images/jin-helmet/metallicus/statua.png" width="480" height="480" loading="lazy" alt="Tiefutu (Jin) — Head — Metallicus-Statua"></a>
+  <figcaption>Metallicus-Statua</figcaption>
+</figure>
 </div>
 </section>
 </section>
@@ -521,8 +536,8 @@ title: Forgotten Armory — Chinese Dynasties
   <figcaption>Communis-Transversa</figcaption>
 </figure>
 <figure class="dynasties-card">
-  <a class="dynasties-image" href="images/yuan-helmet/communis/vexillum.png" aria-label="Open Vexillum image"><img src="images/yuan-helmet/communis/vexillum.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — Head — Communis-Vexillum"></a>
-  <figcaption>Communis-Vexillum</figcaption>
+  <a class="dynasties-image" href="images/yuan-helmet/communis/statua.png" aria-label="Open Statua image"><img src="images/yuan-helmet/communis/statua.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — Head — Communis-Statua"></a>
+  <figcaption>Communis-Statua</figcaption>
 </figure>
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/yuan-helmet/communis/cauda.png" aria-label="Open Communis-Cauda image">
@@ -588,8 +603,8 @@ title: Forgotten Armory — Chinese Dynasties
   <figcaption>Regalis-Sertum</figcaption>
 </figure>
 <figure class="dynasties-card">
-  <a class="dynasties-image" href="images/yuan-helmet/regalis/vexillum.png" aria-label="Open Vexillum image"><img src="images/yuan-helmet/regalis/vexillum.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — Head — Regalis-Vexillum"></a>
-  <figcaption>Regalis-Vexillum</figcaption>
+  <a class="dynasties-image" href="images/yuan-helmet/regalis/statua.png" aria-label="Open Statua image"><img src="images/yuan-helmet/regalis/statua.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — Head — Regalis-Statua"></a>
+  <figcaption>Regalis-Statua</figcaption>
 </figure>
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/yuan-helmet/regalis/cauda.png" aria-label="Open Regalis-Cauda image">
@@ -642,6 +657,11 @@ title: Forgotten Armory — Chinese Dynasties
   <a class="dynasties-image" href="images/yuan-helmet/metallicus/taurinus.png" aria-label="Open Taurinus image"><img src="images/yuan-helmet/metallicus/taurinus.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — Head — Metallicus-Taurinus"></a>
   <figcaption>Metallicus-Taurinus</figcaption>
 </figure>
+
+<figure class="dynasties-card">
+  <a class="dynasties-image" href="images/yuan-helmet/metallicus/statua.png" aria-label="Open Statua image"><img src="images/yuan-helmet/metallicus/statua.png" width="480" height="480" loading="lazy" alt="Sùwèi (Yuan) — Head — Metallicus-Statua"></a>
+  <figcaption>Metallicus-Statua</figcaption>
+</figure>
 </div>
 </section>
 </section>
@@ -673,8 +693,8 @@ title: Forgotten Armory — Chinese Dynasties
   <figcaption>Communis-Transversa</figcaption>
 </figure>
 <figure class="dynasties-card">
-  <a class="dynasties-image" href="images/royal-qing-helmet/communis/vexillum.png" aria-label="Open Vexillum image"><img src="images/royal-qing-helmet/communis/vexillum.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — Head — Communis-Vexillum"></a>
-  <figcaption>Communis-Vexillum</figcaption>
+  <a class="dynasties-image" href="images/royal-qing-helmet/communis/statua.png" aria-label="Open Statua image"><img src="images/royal-qing-helmet/communis/statua.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — Head — Communis-Statua"></a>
+  <figcaption>Communis-Statua</figcaption>
 </figure>
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/royal-qing-helmet/communis/cauda.png" aria-label="Open Communis-Cauda image">
@@ -740,8 +760,8 @@ title: Forgotten Armory — Chinese Dynasties
   <figcaption>Regalis-Sertum</figcaption>
 </figure>
 <figure class="dynasties-card">
-  <a class="dynasties-image" href="images/royal-qing-helmet/regalis/vexillum.png" aria-label="Open Vexillum image"><img src="images/royal-qing-helmet/regalis/vexillum.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — Head — Regalis-Vexillum"></a>
-  <figcaption>Regalis-Vexillum</figcaption>
+  <a class="dynasties-image" href="images/royal-qing-helmet/regalis/statua.png" aria-label="Open Statua image"><img src="images/royal-qing-helmet/regalis/statua.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — Head — Regalis-Statua"></a>
+  <figcaption>Regalis-Statua</figcaption>
 </figure>
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/royal-qing-helmet/regalis/cauda.png" aria-label="Open Regalis-Cauda image">
@@ -793,6 +813,11 @@ title: Forgotten Armory — Chinese Dynasties
 <figure class="dynasties-card">
   <a class="dynasties-image" href="images/royal-qing-helmet/metallicus/taurinus.png" aria-label="Open Taurinus image"><img src="images/royal-qing-helmet/metallicus/taurinus.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — Head — Metallicus-Taurinus"></a>
   <figcaption>Metallicus-Taurinus</figcaption>
+</figure>
+
+<figure class="dynasties-card">
+  <a class="dynasties-image" href="images/royal-qing-helmet/metallicus/statua.png" aria-label="Open Statua image"><img src="images/royal-qing-helmet/metallicus/statua.png" width="480" height="480" loading="lazy" alt="Shìwèi Qīnjūn (Royal Qing) — Head — Metallicus-Statua"></a>
+  <figcaption>Metallicus-Statua</figcaption>
 </figure>
 </div>
 </section>

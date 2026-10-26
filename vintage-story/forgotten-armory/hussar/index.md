@@ -64,10 +64,10 @@ title: Forgotten Armory — Hussar
             <figcaption>Communis-Transversa</figcaption>
           </figure>
           <figure class="hussar-card">
-            <a href="images/szyszak-helmet/communis/vexillum.png">
-              <img src="images/szyszak-helmet/communis/vexillum.png" alt="Szyszak — Head — Communis-Vexillum" loading="lazy">
+            <a href="images/szyszak-helmet/communis/statua.png">
+              <img src="images/szyszak-helmet/communis/statua.png" alt="Szyszak — Head — Communis-Statua" loading="lazy">
             </a>
-            <figcaption>Communis-Vexillum</figcaption>
+            <figcaption>Communis-Statua</figcaption>
           </figure>
           <figure class="hussar-card">
             <a href="images/szyszak-helmet/communis/cauda.png">
@@ -160,10 +160,10 @@ title: Forgotten Armory — Hussar
             <figcaption>Regalis-Sertum</figcaption>
           </figure>
           <figure class="hussar-card">
-            <a href="images/szyszak-helmet/regalis/vexillum.png">
-              <img src="images/szyszak-helmet/regalis/vexillum.png" alt="Szyszak — Head — Regalis-Vexillum" loading="lazy">
+            <a href="images/szyszak-helmet/regalis/statua.png">
+              <img src="images/szyszak-helmet/regalis/statua.png" alt="Szyszak — Head — Regalis-Statua" loading="lazy">
             </a>
-            <figcaption>Regalis-Vexillum</figcaption>
+            <figcaption>Regalis-Statua</figcaption>
           </figure>
           <figure class="hussar-card">
             <a href="images/szyszak-helmet/regalis/cauda.png">
@@ -237,7 +237,14 @@ title: Forgotten Armory — Hussar
             </a>
             <figcaption>Metallicus-Taurinus</figcaption>
           </figure>
-    </div>
+    
+<figure class="hussar-card">
+            <a href="images/szyszak-helmet/metallicus/statua.png">
+              <img src="images/szyszak-helmet/metallicus/statua.png" alt="Szyszak — Head — Metallicus-Statua" loading="lazy">
+            </a>
+            <figcaption>Metallicus-Statua</figcaption>
+          </figure>
+</div>
   </div>
   </section>
 <section id="szyszak-covered-helmet" class="hussar-section" aria-labelledby="szyszak-covered-helmet-title">
@@ -283,10 +290,10 @@ title: Forgotten Armory — Hussar
             <figcaption>Communis-Transversa</figcaption>
           </figure>
           <figure class="hussar-card">
-            <a href="images/szyszak-covered-helmet/communis/vexillum.png">
-              <img src="images/szyszak-covered-helmet/communis/vexillum.png" alt="Szyszak Covered — Head — Communis-Vexillum" loading="lazy">
+            <a href="images/szyszak-covered-helmet/communis/statua.png">
+              <img src="images/szyszak-covered-helmet/communis/statua.png" alt="Szyszak Covered — Head — Communis-Statua" loading="lazy">
             </a>
-            <figcaption>Communis-Vexillum</figcaption>
+            <figcaption>Communis-Statua</figcaption>
           </figure>
           <figure class="hussar-card">
             <a href="images/szyszak-covered-helmet/communis/cauda.png">
@@ -379,10 +386,10 @@ title: Forgotten Armory — Hussar
             <figcaption>Regalis-Sertum</figcaption>
           </figure>
           <figure class="hussar-card">
-            <a href="images/szyszak-covered-helmet/regalis/vexillum.png">
-              <img src="images/szyszak-covered-helmet/regalis/vexillum.png" alt="Szyszak Covered — Head — Regalis-Vexillum" loading="lazy">
+            <a href="images/szyszak-covered-helmet/regalis/statua.png">
+              <img src="images/szyszak-covered-helmet/regalis/statua.png" alt="Szyszak Covered — Head — Regalis-Statua" loading="lazy">
             </a>
-            <figcaption>Regalis-Vexillum</figcaption>
+            <figcaption>Regalis-Statua</figcaption>
           </figure>
           <figure class="hussar-card">
             <a href="images/szyszak-covered-helmet/regalis/cauda.png">
@@ -456,7 +463,14 @@ title: Forgotten Armory — Hussar
             </a>
             <figcaption>Metallicus-Taurinus</figcaption>
           </figure>
-    </div>
+    
+<figure class="hussar-card">
+            <a href="images/szyszak-covered-helmet/metallicus/statua.png">
+              <img src="images/szyszak-covered-helmet/metallicus/statua.png" alt="Szyszak Covered — Head — Metallicus-Statua" loading="lazy">
+            </a>
+            <figcaption>Metallicus-Statua</figcaption>
+          </figure>
+</div>
   </div>
   </section>
 <section id="szyszak-masked-helmet" class="hussar-section" aria-labelledby="szyszak-masked-helmet-title">
@@ -502,10 +516,10 @@ title: Forgotten Armory — Hussar
             <figcaption>Communis-Transversa</figcaption>
           </figure>
           <figure class="hussar-card">
-            <a href="images/szyszak-masked-helmet/communis/vexillum.png">
-              <img src="images/szyszak-masked-helmet/communis/vexillum.png" alt="Szyszak Masked — Head — Communis-Vexillum" loading="lazy">
+            <a href="images/szyszak-masked-helmet/communis/statua.png">
+              <img src="images/szyszak-masked-helmet/communis/statua.png" alt="Szyszak Masked — Head — Communis-Statua" loading="lazy">
             </a>
-            <figcaption>Communis-Vexillum</figcaption>
+            <figcaption>Communis-Statua</figcaption>
           </figure>
           <figure class="hussar-card">
             <a href="images/szyszak-masked-helmet/communis/cauda.png">
@@ -598,10 +612,10 @@ title: Forgotten Armory — Hussar
             <figcaption>Regalis-Sertum</figcaption>
           </figure>
           <figure class="hussar-card">
-            <a href="images/szyszak-masked-helmet/regalis/vexillum.png">
-              <img src="images/szyszak-masked-helmet/regalis/vexillum.png" alt="Szyszak Masked — Head — Regalis-Vexillum" loading="lazy">
+            <a href="images/szyszak-masked-helmet/regalis/statua.png">
+              <img src="images/szyszak-masked-helmet/regalis/statua.png" alt="Szyszak Masked — Head — Regalis-Statua" loading="lazy">
             </a>
-            <figcaption>Regalis-Vexillum</figcaption>
+            <figcaption>Regalis-Statua</figcaption>
           </figure>
           <figure class="hussar-card">
             <a href="images/szyszak-masked-helmet/regalis/cauda.png">
@@ -675,7 +689,14 @@ title: Forgotten Armory — Hussar
             </a>
             <figcaption>Metallicus-Taurinus</figcaption>
           </figure>
-    </div>
+    
+<figure class="hussar-card">
+            <a href="images/szyszak-masked-helmet/metallicus/statua.png">
+              <img src="images/szyszak-masked-helmet/metallicus/statua.png" alt="Szyszak Masked — Head — Metallicus-Statua" loading="lazy">
+            </a>
+            <figcaption>Metallicus-Statua</figcaption>
+          </figure>
+</div>
   </div>
   </section>
 <section id="dragoon-chestplate" class="hussar-section" aria-labelledby="dragoon-chestplate-title"><span id="captain-chestplate" aria-hidden="true"></span><span id="captain-chestplate-title" aria-hidden="true"></span>
@@ -818,10 +839,10 @@ title: Forgotten Armory — Hussar
             <figcaption>Communis-Transversa</figcaption>
           </figure>
           <figure class="hussar-card">
-            <a href="images/kapalin-helmet/communis/vexillum.png">
-              <img src="images/kapalin-helmet/communis/vexillum.png" alt="Kapalin — Head — Communis-Vexillum" loading="lazy">
+            <a href="images/kapalin-helmet/communis/statua.png">
+              <img src="images/kapalin-helmet/communis/statua.png" alt="Kapalin — Head — Communis-Statua" loading="lazy">
             </a>
-            <figcaption>Communis-Vexillum</figcaption>
+            <figcaption>Communis-Statua</figcaption>
           </figure>
           <figure class="hussar-card">
             <a href="images/kapalin-helmet/communis/cauda.png">
@@ -914,10 +935,10 @@ title: Forgotten Armory — Hussar
             <figcaption>Regalis-Sertum</figcaption>
           </figure>
           <figure class="hussar-card">
-            <a href="images/kapalin-helmet/regalis/vexillum.png">
-              <img src="images/kapalin-helmet/regalis/vexillum.png" alt="Kapalin — Head — Regalis-Vexillum" loading="lazy">
+            <a href="images/kapalin-helmet/regalis/statua.png">
+              <img src="images/kapalin-helmet/regalis/statua.png" alt="Kapalin — Head — Regalis-Statua" loading="lazy">
             </a>
-            <figcaption>Regalis-Vexillum</figcaption>
+            <figcaption>Regalis-Statua</figcaption>
           </figure>
           <figure class="hussar-card">
             <a href="images/kapalin-helmet/regalis/cauda.png">
@@ -991,7 +1012,14 @@ title: Forgotten Armory — Hussar
             </a>
             <figcaption>Metallicus-Taurinus</figcaption>
           </figure>
-    </div>
+    
+<figure class="hussar-card">
+            <a href="images/kapalin-helmet/metallicus/statua.png">
+              <img src="images/kapalin-helmet/metallicus/statua.png" alt="Kapalin — Head — Metallicus-Statua" loading="lazy">
+            </a>
+            <figcaption>Metallicus-Statua</figcaption>
+          </figure>
+</div>
   </div>
   </section>
 <section id="kapalin-covered-helmet" class="hussar-section" aria-labelledby="kapalin-covered-helmet-title">
@@ -1037,10 +1065,10 @@ title: Forgotten Armory — Hussar
             <figcaption>Communis-Transversa</figcaption>
           </figure>
           <figure class="hussar-card">
-            <a href="images/kapalin-covered-helmet/communis/vexillum.png">
-              <img src="images/kapalin-covered-helmet/communis/vexillum.png" alt="Kapalin Covered — Head — Communis-Vexillum" loading="lazy">
+            <a href="images/kapalin-covered-helmet/communis/statua.png">
+              <img src="images/kapalin-covered-helmet/communis/statua.png" alt="Kapalin Covered — Head — Communis-Statua" loading="lazy">
             </a>
-            <figcaption>Communis-Vexillum</figcaption>
+            <figcaption>Communis-Statua</figcaption>
           </figure>
           <figure class="hussar-card">
             <a href="images/kapalin-covered-helmet/communis/cauda.png">
@@ -1133,10 +1161,10 @@ title: Forgotten Armory — Hussar
             <figcaption>Regalis-Sertum</figcaption>
           </figure>
           <figure class="hussar-card">
-            <a href="images/kapalin-covered-helmet/regalis/vexillum.png">
-              <img src="images/kapalin-covered-helmet/regalis/vexillum.png" alt="Kapalin Covered — Head — Regalis-Vexillum" loading="lazy">
+            <a href="images/kapalin-covered-helmet/regalis/statua.png">
+              <img src="images/kapalin-covered-helmet/regalis/statua.png" alt="Kapalin Covered — Head — Regalis-Statua" loading="lazy">
             </a>
-            <figcaption>Regalis-Vexillum</figcaption>
+            <figcaption>Regalis-Statua</figcaption>
           </figure>
           <figure class="hussar-card">
             <a href="images/kapalin-covered-helmet/regalis/cauda.png">
@@ -1210,7 +1238,14 @@ title: Forgotten Armory — Hussar
             </a>
             <figcaption>Metallicus-Taurinus</figcaption>
           </figure>
-    </div>
+    
+<figure class="hussar-card">
+            <a href="images/kapalin-covered-helmet/metallicus/statua.png">
+              <img src="images/kapalin-covered-helmet/metallicus/statua.png" alt="Kapalin Covered — Head — Metallicus-Statua" loading="lazy">
+            </a>
+            <figcaption>Metallicus-Statua</figcaption>
+          </figure>
+</div>
   </div>
   </section>
 <section id="kapalin-masked-helmet" class="hussar-section" aria-labelledby="kapalin-masked-helmet-title">
@@ -1256,10 +1291,10 @@ title: Forgotten Armory — Hussar
             <figcaption>Communis-Transversa</figcaption>
           </figure>
           <figure class="hussar-card">
-            <a href="images/kapalin-masked-helmet/communis/vexillum.png">
-              <img src="images/kapalin-masked-helmet/communis/vexillum.png" alt="Kapalin Masked — Head — Communis-Vexillum" loading="lazy">
+            <a href="images/kapalin-masked-helmet/communis/statua.png">
+              <img src="images/kapalin-masked-helmet/communis/statua.png" alt="Kapalin Masked — Head — Communis-Statua" loading="lazy">
             </a>
-            <figcaption>Communis-Vexillum</figcaption>
+            <figcaption>Communis-Statua</figcaption>
           </figure>
           <figure class="hussar-card">
             <a href="images/kapalin-masked-helmet/communis/cauda.png">
@@ -1352,10 +1387,10 @@ title: Forgotten Armory — Hussar
             <figcaption>Regalis-Sertum</figcaption>
           </figure>
           <figure class="hussar-card">
-            <a href="images/kapalin-masked-helmet/regalis/vexillum.png">
-              <img src="images/kapalin-masked-helmet/regalis/vexillum.png" alt="Kapalin Masked — Head — Regalis-Vexillum" loading="lazy">
+            <a href="images/kapalin-masked-helmet/regalis/statua.png">
+              <img src="images/kapalin-masked-helmet/regalis/statua.png" alt="Kapalin Masked — Head — Regalis-Statua" loading="lazy">
             </a>
-            <figcaption>Regalis-Vexillum</figcaption>
+            <figcaption>Regalis-Statua</figcaption>
           </figure>
           <figure class="hussar-card">
             <a href="images/kapalin-masked-helmet/regalis/cauda.png">
@@ -1429,7 +1464,14 @@ title: Forgotten Armory — Hussar
             </a>
             <figcaption>Metallicus-Taurinus</figcaption>
           </figure>
-    </div>
+    
+<figure class="hussar-card">
+            <a href="images/kapalin-masked-helmet/metallicus/statua.png">
+              <img src="images/kapalin-masked-helmet/metallicus/statua.png" alt="Kapalin Masked — Head — Metallicus-Statua" loading="lazy">
+            </a>
+            <figcaption>Metallicus-Statua</figcaption>
+          </figure>
+</div>
   </div>
   </section>
   <section id="cavalier-chestplate" class="hussar-section" aria-labelledby="cavalier-chestplate-title"><span id="guard-chestplate" aria-hidden="true"></span><span id="guard-chestplate-title" aria-hidden="true"></span>

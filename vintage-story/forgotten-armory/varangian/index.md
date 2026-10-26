@@ -94,10 +94,10 @@ title: Forgotten Armory — Varangian
             <figcaption>Communis-Transversa</figcaption>
           </figure>
           <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/vexillum.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/vexillum.png' | relative_url }}" alt="Communis-Vexillum" loading="lazy">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/statua.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/statua.png' | relative_url }}" alt="Communis-Statua" loading="lazy">
             </a>
-            <figcaption>Communis-Vexillum</figcaption>
+            <figcaption>Communis-Statua</figcaption>
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/communis/cauda.png' | relative_url }}">
@@ -190,10 +190,10 @@ title: Forgotten Armory — Varangian
             <figcaption>Regalis-Sertum</figcaption>
           </figure>
           <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/vexillum.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/vexillum.png' | relative_url }}" alt="Regalis-Vexillum" loading="lazy">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/statua.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/statua.png' | relative_url }}" alt="Regalis-Statua" loading="lazy">
             </a>
-            <figcaption>Regalis-Vexillum</figcaption>
+            <figcaption>Regalis-Statua</figcaption>
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/regalis/cauda.png' | relative_url }}">
@@ -267,7 +267,14 @@ title: Forgotten Armory — Varangian
             </a>
             <figcaption>Metallicus-Taurinus</figcaption>
           </figure>
-    </div>
+    
+<figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/metallicus/statua.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-helmet/metallicus/statua.png' | relative_url }}" alt="Metallicus-Statua" loading="lazy">
+            </a>
+            <figcaption>Metallicus-Statua</figcaption>
+          </figure>
+</div>
   </div>
   </section>
 <section id="guard-masked-helmet" class="varangian-section" aria-labelledby="guard-masked-helmet-title">
@@ -313,10 +320,10 @@ title: Forgotten Armory — Varangian
             <figcaption>Communis-Transversa</figcaption>
           </figure>
           <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/vexillum.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/vexillum.png' | relative_url }}" alt="Communis-Vexillum" loading="lazy">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/statua.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/statua.png' | relative_url }}" alt="Communis-Statua" loading="lazy">
             </a>
-            <figcaption>Communis-Vexillum</figcaption>
+            <figcaption>Communis-Statua</figcaption>
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/communis/cauda.png' | relative_url }}">
@@ -409,10 +416,10 @@ title: Forgotten Armory — Varangian
             <figcaption>Regalis-Sertum</figcaption>
           </figure>
           <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/vexillum.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/vexillum.png' | relative_url }}" alt="Regalis-Vexillum" loading="lazy">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/statua.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/statua.png' | relative_url }}" alt="Regalis-Statua" loading="lazy">
             </a>
-            <figcaption>Regalis-Vexillum</figcaption>
+            <figcaption>Regalis-Statua</figcaption>
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/regalis/cauda.png' | relative_url }}">
@@ -486,7 +493,14 @@ title: Forgotten Armory — Varangian
             </a>
             <figcaption>Metallicus-Taurinus</figcaption>
           </figure>
-    </div>
+    
+<figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/metallicus/statua.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/guard-masked-helmet/metallicus/statua.png' | relative_url }}" alt="Metallicus-Statua" loading="lazy">
+            </a>
+            <figcaption>Metallicus-Statua</figcaption>
+          </figure>
+</div>
   </div>
   </section>
 <section id="captain-helmet" class="varangian-section" aria-labelledby="captain-helmet-title">
@@ -532,10 +546,10 @@ title: Forgotten Armory — Varangian
             <figcaption>Communis-Transversa</figcaption>
           </figure>
           <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/vexillum.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/vexillum.png' | relative_url }}" alt="Communis-Vexillum" loading="lazy">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/statua.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/statua.png' | relative_url }}" alt="Communis-Statua" loading="lazy">
             </a>
-            <figcaption>Communis-Vexillum</figcaption>
+            <figcaption>Communis-Statua</figcaption>
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/communis/cauda.png' | relative_url }}">
@@ -628,10 +642,10 @@ title: Forgotten Armory — Varangian
             <figcaption>Regalis-Sertum</figcaption>
           </figure>
           <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/vexillum.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/vexillum.png' | relative_url }}" alt="Regalis-Vexillum" loading="lazy">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/statua.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/statua.png' | relative_url }}" alt="Regalis-Statua" loading="lazy">
             </a>
-            <figcaption>Regalis-Vexillum</figcaption>
+            <figcaption>Regalis-Statua</figcaption>
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/regalis/cauda.png' | relative_url }}">
@@ -705,7 +719,14 @@ title: Forgotten Armory — Varangian
             </a>
             <figcaption>Metallicus-Taurinus</figcaption>
           </figure>
-    </div>
+    
+<figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/metallicus/statua.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-helmet/metallicus/statua.png' | relative_url }}" alt="Metallicus-Statua" loading="lazy">
+            </a>
+            <figcaption>Metallicus-Statua</figcaption>
+          </figure>
+</div>
   </div>
   </section>
 <section id="captain-masked-helmet" class="varangian-section" aria-labelledby="captain-masked-helmet-title">
@@ -751,10 +772,10 @@ title: Forgotten Armory — Varangian
             <figcaption>Communis-Transversa</figcaption>
           </figure>
           <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/vexillum.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/vexillum.png' | relative_url }}" alt="Communis-Vexillum" loading="lazy">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/statua.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/statua.png' | relative_url }}" alt="Communis-Statua" loading="lazy">
             </a>
-            <figcaption>Communis-Vexillum</figcaption>
+            <figcaption>Communis-Statua</figcaption>
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/communis/cauda.png' | relative_url }}">
@@ -847,10 +868,10 @@ title: Forgotten Armory — Varangian
             <figcaption>Regalis-Sertum</figcaption>
           </figure>
           <figure class="varangian-card">
-            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/vexillum.png' | relative_url }}">
-              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/vexillum.png' | relative_url }}" alt="Regalis-Vexillum" loading="lazy">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/statua.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/statua.png' | relative_url }}" alt="Regalis-Statua" loading="lazy">
             </a>
-            <figcaption>Regalis-Vexillum</figcaption>
+            <figcaption>Regalis-Statua</figcaption>
           </figure>
           <figure class="varangian-card">
             <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/regalis/cauda.png' | relative_url }}">
@@ -924,7 +945,14 @@ title: Forgotten Armory — Varangian
             </a>
             <figcaption>Metallicus-Taurinus</figcaption>
           </figure>
-    </div>
+    
+<figure class="varangian-card">
+            <a href="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/metallicus/statua.png' | relative_url }}">
+              <img src="{{ '/vintage-story/forgotten-armory/varangian/images/captain-masked-helmet/metallicus/statua.png' | relative_url }}" alt="Metallicus-Statua" loading="lazy">
+            </a>
+            <figcaption>Metallicus-Statua</figcaption>
+          </figure>
+</div>
   </div>
   </section>
 <section id="guard-chestplate" class="varangian-section" aria-labelledby="guard-chestplate-title">

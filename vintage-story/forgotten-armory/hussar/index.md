@@ -9,14 +9,14 @@ title: Forgotten Armory — Hussar
 <div class="hussar-gallery"><span id="captain-poses" aria-hidden="true"></span><span id="guard-poses" aria-hidden="true"></span><header class="hussar-hero"><div class="eyebrow">FORGOTTEN ARMORY · COLLECTION</div><h1>Hussar</h1><p>Dragoon and Cavalier sets, decorations and material poses.</p></header>
 <nav class="hussar-navigation" aria-label="Hussar sections"><a href="#introduction">Introduction</a><a href="#szyszak-helmet">Szyszak Head</a><a href="#szyszak-covered-helmet">Szyszak covered Head</a><a href="#szyszak-masked-helmet">Szyszak masked Head</a><a href="#kapalin-helmet">Kapalin Head</a><a href="#kapalin-covered-helmet">Kapalin covered Head</a><a href="#kapalin-masked-helmet">Kapalin masked Head</a><a href="#dragoon-chestplate">Dragoon Body</a><a href="#dragoon-legplate">Dragoon Legs</a><a href="#cavalier-chestplate">Cavalier Body</a><a href="#cavalier-legplate">Cavalier Legs</a><a href="#poses">Poses</a></nav>
 <section id="introduction" class="hussar-section" aria-labelledby="introduction-title"><h2 id="introduction-title">Introduction</h2><div class="hussar-grid hussar-introduction-grid fa-introduction-grid"><figure class="hussar-card fa-introduction-set" id="captain-set">
-            <a href="images/introduction/captainset.png">
-              <img src="images/introduction/captainset.png" alt="Dragoon set" loading="lazy" width="1920" height="1080" class="fa-wideshot-image">
+            <a href="images/introduction/dragonset.png">
+              <img src="images/introduction/dragonset.png" alt="Dragoon set" loading="lazy" width="1920" height="1080" class="fa-wideshot-image">
             </a>
             <figcaption>Dragoon set</figcaption>
           </figure>
           <figure class="hussar-card fa-introduction-set" id="guard-set">
-            <a href="images/introduction/guardset.png">
-              <img src="images/introduction/guardset.png" alt="Cavalier set" loading="lazy" width="1920" height="1080" class="fa-wideshot-image">
+            <a href="images/introduction/cavalierset.png">
+              <img src="images/introduction/cavalierset.png" alt="Cavalier set" loading="lazy" width="1920" height="1080" class="fa-wideshot-image">
             </a>
             <figcaption>Cavalier set</figcaption>
           </figure>

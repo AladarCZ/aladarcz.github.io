@@ -1,17 +1,56 @@
 ---
 layout: null
-title: The Number
+title: The Number — Forgotten Armory
 ---
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>The Number · Forgotten Armory</title>
-    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/vintage-story/forgotten-armory/number-banner.css' | relative_url }}">
-  </head>
-  <body class="number-waiting">
-    <main><p>Number comming soon</p></main>
-  </body>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Choose armor collections and count the possible head, body and legs combinations.">
+  <title>The Number · Forgotten Armory</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <link rel="stylesheet" href="number.css">
+  <script src="number.js" defer></script>
+</head>
+<body class="number-page">
+  <a class="skip" href="#the-number">Skip to The Number</a>
+  <main class="number-shell">
+    <nav class="number-nav" aria-label="Page navigation">
+      <a href="{{ '/vintage-story/forgotten-armory/' | relative_url }}">← Forgotten Armory</a>
+    </nav>
+    <div class="number-layout">
+      <div id="left-collections" class="collection-column" aria-label="Armor collections — left"></div>
+
+      <section id="the-number" class="number-center" aria-labelledby="number-title">
+        <div class="number-marquee">
+          <span class="number-flourish" aria-hidden="true">✦ ─ ◆ ─ ✦</span>
+          <h1 id="number-title">The Number</h1>
+          <p class="number-subtitle">look! look at The Number!</p>
+          <div class="number-result-wrap">
+            <p class="number-label">POSSIBLE COMPLETE OUTFITS</p>
+            <output id="outfit-total" class="number-result" aria-live="polite" aria-atomic="true">0</output>
+          </div>
+          <p id="selection-caption" class="selection-caption">Choose a collection.</p>
+        </div>
+
+        <div class="pool-panel">
+          <p class="pool-heading">SELECTED POOL</p>
+          <div class="pool-factors">
+            <div class="pool-factor"><span>Head</span><strong id="head-total">0</strong><small id="head-addition" hidden></small></div>
+            <span class="pool-times" aria-hidden="true">×</span>
+            <div class="pool-factor"><span>Body</span><strong id="body-total">0</strong><small id="body-addition" hidden></small></div>
+            <span class="pool-times" aria-hidden="true">×</span>
+            <div class="pool-factor"><span>Legs</span><strong id="legs-total">0</strong><small id="legs-addition" hidden></small></div>
+          </div>
+        </div>
+        <button id="clear-selection" class="clear-selection" type="button" disabled>Clear selection</button>
+      </section>
+
+      <div id="right-collections" class="collection-column" aria-label="Armor collections — right"></div>
+    </div>
+
+    <noscript><p class="no-script">Enable JavaScript to select collections and calculate The Number.</p></noscript>
+  </main>
+</body>
 </html>
